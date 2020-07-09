@@ -10,15 +10,11 @@ I work with Node JS, Laravel, Vue JS and React JS. I also build some stuff in my
 
 ### 🎯 Things I want to do this year
 
-🎨 Shape my ideas/thoughts and build great stuff
-
-🎉 Contribute to the open source
-
-🏆 Improve my JS and PHP skills.
-
-🐍 Learn Python
-
-⚛ Create text and video content
+- Shape my ideas/thoughts and build great stuff 🎨
+- Contribute to the open source 🎉
+- Improve my JS and PHP skills 🏆
+- Learn Python 🐍
+- Create text and video content ⚛
 
 ### 👇🏼 Reach out to me
 
