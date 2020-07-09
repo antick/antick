@@ -6,11 +6,9 @@ I work with Node JS, Laravel, Vue JS and React JS. I also build some stuff in my
 
 😍 I'm currently learning [In-Depth Laravel](http://indepthlaravel.com)
 
-🐤 Ask me about anything on Twitter
+🐤 Ask me about anything on [Twitter](https://twitter.com/PankajSanam)
 
-👉 How to reach me: [Twitter](https://twitter.com/PankajSanam)
-
-#### 🎯 Things I want to do this year
+### 🎯 Things I want to do this year
 
 🎨 Shape my ideas/thoughts and build great stuff
 
@@ -22,7 +20,7 @@ I work with Node JS, Laravel, Vue JS and React JS. I also build some stuff in my
 
 ⚛ Create text and video content
 
-#### 🤠Checkout my other profiles
+### 👇🏼 Reach out to me
 
 [Twitter](https://twitter.com/PankajSanam)
 
