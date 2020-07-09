@@ -1,10 +1,12 @@
 ## Hi there 👋
 
-I work with Node JS, Laravel, Vue JS and React JS. I also build some stuff in my free time to fulfil my needs. I am planning to open source some of my ideas this year. I love to write (in private). I have gignatic notes in my notion. I do enjoy playing Skyrim sometimes.
+I work with Node JS, Laravel, Vue JS and React JS. I also build some stuff in my free time to fulfil my needs. I am planning to open source some of my ideas this year. I love to write (in private). I have gigantic collection of notes in my notion.
 
 ✨ I'm currently working on a MERN boilerplate.
 
 😍 I'm currently learning [In-Depth Laravel](http://indepthlaravel.com)
+
+🎮 I enjoy playing Skyrim.
 
 🐤 Ask me about anything on [Twitter](https://twitter.com/PankajSanam)
 
@@ -18,8 +20,6 @@ I work with Node JS, Laravel, Vue JS and React JS. I also build some stuff in my
 
 ### 👇🏼 Reach out to me
 
-[Twitter](https://twitter.com/PankajSanam)
-
-[Linkedin](https://www.linkedin.com/in/pankajsanam)
-
-[Dev](https://dev.to/pankajsanam)
+- [Twitter](https://twitter.com/PankajSanam)
+- [Linkedin](https://www.linkedin.com/in/pankajsanam)
+- [Dev](https://dev.to/pankajsanam)
