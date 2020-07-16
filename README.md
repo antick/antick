@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I work with Node JS, Laravel, Vue JS and React JS. I also build some stuff in my free time to fulfil my needs. I am planning to open source some of my ideas this year. I love to write (in private). I have gigantic collection of notes in my notion.
+I love working on Node JS, Laravel, Vue JS and React JS. I also build stuff in my free time to fulfil my needs. I am planning to open source some of my ideas this year. I love to write (in private). I have gigantic collection of notes in my notion.
 
 ✨ I'm currently working on a MERN boilerplate.
 
@@ -21,5 +21,11 @@ I work with Node JS, Laravel, Vue JS and React JS. I also build some stuff in my
 ### 👇🏼 Reach out to me
 
 - [Twitter](https://twitter.com/PankajSanam)
+- [Email](mailto:pankaj@desk.sh)
 - [Linkedin](https://www.linkedin.com/in/pankajsanam)
+
+### 👓 Check out my other profiles
 - [Dev](https://dev.to/pankajsanam)
+- [Hashnode](https://hashnode.com/@pankajsanam)
+- [Stackoverflow](https://stackoverflow.com/users/2886381/pankaj)
+- [Medium](https://medium.com/@pankajsanam)
