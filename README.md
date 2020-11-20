@@ -37,6 +37,11 @@ I enjoy working on Node JS, Laravel, Python, Vue js and React js. I also build s
 ### ✍🏻 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Should You Start Your Dev Blog On Hashnode](https://slashism.com/why-should-you-start-your-dev-blog-on-hashnode)
+- [Arrow Functions in JavaScript](https://slashism.com/arrow-functions-in-javascript)
+- [How I Added Sticky Header and Custom CSS on My Hashnode Blog](https://slashism.com/how-i-added-sticky-header-and-custom-css-on-my-hashnode-blog)
+- [Hoisting in JavaScript](https://slashism.com/hoisting-in-javascript)
+- [Variable Scope in JavaScript](https://slashism.com/variable-scope-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ### 💻 My Github Stats
