@@ -28,10 +28,17 @@ I enjoy working on Node JS, Laravel, Python, Vue js and React js. I also build s
 - [Linkedin](https://www.linkedin.com/in/pankajsanam)
 
 ### 👓 Check out my other profiles
+
 - [Hashnode](https://hashnode.com/@pankajsanam)
 - [Dev](https://dev.to/pankajsanam)
 - [Stackoverflow](https://stackoverflow.com/users/2886381/pankaj)
 - [Medium](https://medium.com/@pankajsanam)
 
-![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankajsanam&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=vue)
+### ✍🏻 My Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+### 💻 My Github Stats
+
+![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankajsanam&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=vue)
