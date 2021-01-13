@@ -105,7 +105,7 @@ Hoisting of v... </p> <br/> <br/>
 
 ### 💻 My Trending Repos
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=pankajsanam&repo=mint-react&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=pankajsanam&repo=mint-react&bg_color=45,ac3cad,2ea9ab&title_color=fff&text_color=fff)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=pankajsanam&repo=mint-express&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 <!--STARTS_HERE_QUOTE_README-->
