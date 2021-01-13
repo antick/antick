@@ -46,6 +46,40 @@ I enjoy working on Node.js, Vue.js, React.js, Laravel, and Python. I also build 
 <!--ENDS_HERE_QUOTE_README-->
 
 <!-- HASHNODE_BLOG:START -->
+<p align="left">
+<a href="https://slashism.com/remove-duplicates-from-a-javascript-array" title="Remove Duplicates from a JavaScript Array"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605279155205/I2bkW0uAd.jpeg" alt="Remove Duplicates from a JavaScript Array" width="250px" align="left" /></a>
+<a href="https://slashism.com/remove-duplicates-from-a-javascript-array" title="Remove Duplicates from a JavaScript Array"><strong>Remove Duplicates from a JavaScript Array</strong></a>
+<br/> This is one of my favorite questions that I ask in my interviews. I was also asked this question initially when I started my career as a web dev.
+It's a very simple problem yet surprisingly, many fail to answer. I know because I have asked many candi... </p> <br/> <br/>
+<p align="left">
+<a href="https://slashism.com/why-should-you-start-your-dev-blog-on-hashnode" title="Why Should You Start Your Dev Blog On Hashnode"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604168209677/G7mSFUHSK.jpeg" alt="Why Should You Start Your Dev Blog On Hashnode" width="250px" align="left" /></a>
+<a href="https://slashism.com/why-should-you-start-your-dev-blog-on-hashnode" title="Why Should You Start Your Dev Blog On Hashnode"><strong>Why Should You Start Your Dev Blog On Hashnode</strong></a>
+<br/> Hashnode got featured on ProductHunt  recently. After reading all the reviews and experiences there from everyone, I thought I should write a post about my experience as well.
+Before I dig deeper into the Awesomeness of the Hashnode platform, I would... </p> <br/> <br/>
+<p align="left">
+<a href="https://slashism.com/arrow-functions-in-javascript" title="Arrow Functions in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604247515262/OWJwy-gtw.jpeg" alt="Arrow Functions in JavaScript" width="250px" align="left" /></a>
+<a href="https://slashism.com/arrow-functions-in-javascript" title="Arrow Functions in JavaScript"><strong>Arrow Functions in JavaScript</strong></a>
+<br/> Arrow functions were introduced in ES6. But before diving deeper into arrow functions, let's see how we write functions in a traditional way:
+const sum = function(a, b) {
+  return a + b;
+}
+
+Let's transform this traditional function into an arrow func... </p> <br/> <br/>
+<p align="left">
+<a href="https://slashism.com/how-i-added-sticky-header-and-custom-css-on-my-hashnode-blog" title="How I Added Sticky Header and Custom CSS on My Hashnode Blog"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603047372899/uLPrd3Qqu.jpeg" alt="How I Added Sticky Header and Custom CSS on My Hashnode Blog" width="250px" align="left" /></a>
+<a href="https://slashism.com/how-i-added-sticky-header-and-custom-css-on-my-hashnode-blog" title="How I Added Sticky Header and Custom CSS on My Hashnode Blog"><strong>How I Added Sticky Header and Custom CSS on My Hashnode Blog</strong></a>
+<br/> Hashnode blogs got this cool feature where you can apply Custom CSS on your blog. Although it's in the alpha stage and only available to the Hashnode Ambassadors.
+So I played around a bit and came up with this initial template where I have added the ... </p> <br/> <br/>
+<p align="left">
+<a href="https://slashism.com/hoisting-in-javascript" title="Hoisting in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602436860808/e5c9aM0c2.jpeg" alt="Hoisting in JavaScript" width="250px" align="left" /></a>
+<a href="https://slashism.com/hoisting-in-javascript" title="Hoisting in JavaScript"><strong>Hoisting in JavaScript</strong></a>
+<br/> Just so you know:
+
+
+Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution.
+
+Let's understand the hoisting for different variable declarations and function:
+Hoisting of v... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### My Github Activity ⚡
