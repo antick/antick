@@ -1,4 +1,4 @@
-name: "Latest Blog Posts"
+name: "Latest Blog Posts With Images"
 
 on:
   workflow_dispatch:
