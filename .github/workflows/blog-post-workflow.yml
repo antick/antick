@@ -1,4 +1,4 @@
-name: Latest blog post workflow
+name: Latest blog post summary
 on:
   schedule: 
     - cron: '0 * * * *'
@@ -14,5 +14,5 @@ jobs:
           max_post_count: "5"
           committer_username: "pankajsanam"
           committer_email: "pankaj.sanam@gmail.com"
-          commit_message: "Updated readme with the latest blog post"
+          commit_message: "Updated readme with the latest blog post summary"
           feed_list: "https://slashism.com/rss.xml"
