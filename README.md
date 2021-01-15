@@ -90,11 +90,11 @@ Hoisting of v... </p> <br/> <br/>
 ### ⚡ My Github Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#727](https://github.com/recharts/recharts/issues/727) in [recharts/recharts](https://github.com/recharts/recharts)
-2. 🗣 Commented on [#2360](https://github.com/recharts/recharts/issues/2360) in [recharts/recharts](https://github.com/recharts/recharts)
-3. 🗣 Commented on [#164](https://github.com/bisguzar/twitter-scraper/issues/164) in [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper)
-4. 🎉 Merged PR [#5](https://github.com/pankajsanam/pankajsanam.netlify.app/pull/5) in [pankajsanam/pankajsanam.netlify.app](https://github.com/pankajsanam/pankajsanam.netlify.app)
-5. ❗️ Opened issue [#2](https://github.com/pankajsanam/radium/issues/2) in [pankajsanam/radium](https://github.com/pankajsanam/radium)
+1. ❗️ Closed issue [#4](https://github.com/antick/mint-react/issues/4) in [antick/mint-react](https://github.com/antick/mint-react)
+2. 🗣 Commented on [#4](https://github.com/antick/mint-react/issues/4) in [antick/mint-react](https://github.com/antick/mint-react)
+3. 🗣 Commented on [#727](https://github.com/recharts/recharts/issues/727) in [recharts/recharts](https://github.com/recharts/recharts)
+4. 🗣 Commented on [#2360](https://github.com/recharts/recharts/issues/2360) in [recharts/recharts](https://github.com/recharts/recharts)
+5. 🗣 Commented on [#164](https://github.com/bisguzar/twitter-scraper/issues/164) in [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper)
 <!--END_SECTION:activity-->
 
 ### 💻 My Github Stats
