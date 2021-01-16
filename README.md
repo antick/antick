@@ -109,7 +109,7 @@ Hoisting of v... </p> <br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/pin/?username=pankajsanam&repo=mint-express&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first bug in a computer was a dead moth found shorting a relay in the Harvard Mark II computer in 1947❞</i>
+<i>❝In 1833, Charles Babbage invented all the parts a modern computer uses, but it wasn’t until 120 years later that the first modern computers were invented.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <code>
