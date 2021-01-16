@@ -2,7 +2,7 @@
 
 I enjoy working on Node, React, Vue, Laravel, and Python. I also build stuff in my free time to fulfil my needs and increase my productivity. I am planning to open source some of my ideas soon. I love to write and share my thoughts on my blogs.
 
-✨ I'm currently working on a [MERN boilerplate](https://github.com/pankajsanam/mint)
+✨ I'm currently working on a [MERN boilerplate](https://github.com/antick/mint)
 
 😍 I'm currently learning Python 🐍
 
@@ -99,14 +99,14 @@ Hoisting of v... </p> <br/> <br/>
 
 ### 💻 My Github Stats
 
-![Metrics](https://metrics.lecoq.io/pankajsanam?template=classic&pagespeed=1&languages=1&isocalendar=1&followup=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
+![Metrics](https://metrics.lecoq.io/antick?template=classic&pagespeed=1&languages=1&isocalendar=1&followup=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
 
-![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=pankajsanam&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=vue)
+![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=antick&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=vue)
 
 ### 💻 My Trending Repos
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=pankajsanam&repo=mint-react&bg_color=45,ac3cad,2ea9ab&title_color=fff&text_color=fff)
-![](https://github-readme-stats.vercel.app/api/pin/?username=pankajsanam&repo=mint-express&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-react&bg_color=45,ac3cad,2ea9ab&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-express&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝In 1833, Charles Babbage invented all the parts a modern computer uses, but it wasn’t until 120 years later that the first modern computers were invented.❞</i>
@@ -122,4 +122,4 @@ Hoisting of v... </p> <br/> <br/>
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 </code>
 
-<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=pankajsanam'></p>
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=antick'></p>
