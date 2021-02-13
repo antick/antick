@@ -6,7 +6,7 @@ I enjoy working on Node, React, Vue, Laravel, and Python. I also build stuff in 
 
 😍 I'm currently learning Python 🐍
 
-🎮 I enjoy playing Skyrim and GTA 5
+🎮 I enjoy playing Insurgency: Sandstorm, Skyrim and GTA 5
 
 🐤 Ask me about anything on [Twitter](https://twitter.com/PankajSanam)
 
