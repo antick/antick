@@ -90,9 +90,9 @@ Hoisting of v... </p> <br/> <br/>
 ### ⚡ My Github Activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#4](https://github.com/antick/mint-react/issues/4) in [antick/mint-react](https://github.com/antick/mint-react)
-2. 🗣 Commented on [#4](https://github.com/antick/mint-react/issues/4) in [antick/mint-react](https://github.com/antick/mint-react)
-3. 🗣 Commented on [#727](https://github.com/recharts/recharts/issues/727) in [recharts/recharts](https://github.com/recharts/recharts)
+1. 🗣 Commented on [#1](https://github.com/antick/hashnode-custom-css/issues/1) in [antick/hashnode-custom-css](https://github.com/antick/hashnode-custom-css)
+2. ❗️ Closed issue [#4](https://github.com/antick/mint-react/issues/4) in [antick/mint-react](https://github.com/antick/mint-react)
+3. 🗣 Commented on [#4](https://github.com/antick/mint-react/issues/4) in [antick/mint-react](https://github.com/antick/mint-react)
 4. 🗣 Commented on [#2360](https://github.com/recharts/recharts/issues/2360) in [recharts/recharts](https://github.com/recharts/recharts)
 5. 🗣 Commented on [#164](https://github.com/bisguzar/twitter-scraper/issues/164) in [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper)
 <!--END_SECTION:activity-->
