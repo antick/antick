@@ -109,7 +109,7 @@ Hoisting of v... </p> <br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-express&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Getting information off the Internet is like taking a drink from a fire hydrant.”— Mitchell Kapor  ❞</i>
+<i>❝It took Pixar 29 hours to render a single frame from Monster’s University. If done on a single CPU it would have taken 10,000 years to finish.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <code>
