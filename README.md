@@ -90,10 +90,10 @@ Hoisting of v... </p> <br/> <br/>
 ### ⚡ My Github Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/antick/pankajsanam.netlify.app/pull/8) in [antick/pankajsanam.netlify.app](https://github.com/antick/pankajsanam.netlify.app)
-2. 🎉 Merged PR [#7](https://github.com/antick/pankajsanam.netlify.app/pull/7) in [antick/pankajsanam.netlify.app](https://github.com/antick/pankajsanam.netlify.app)
-3. 🗣 Commented on [#1](https://github.com/antick/hashnode-custom-css/issues/1) in [antick/hashnode-custom-css](https://github.com/antick/hashnode-custom-css)
-4. 🗣 Commented on [#2360](https://github.com/recharts/recharts/issues/2360) in [recharts/recharts](https://github.com/recharts/recharts)
+1. 🎉 Merged PR [#11](https://github.com/antick/pankajsanam.netlify.app/pull/11) in [antick/pankajsanam.netlify.app](https://github.com/antick/pankajsanam.netlify.app)
+2. 🎉 Merged PR [#10](https://github.com/antick/pankajsanam.netlify.app/pull/10) in [antick/pankajsanam.netlify.app](https://github.com/antick/pankajsanam.netlify.app)
+3. 🎉 Merged PR [#9](https://github.com/antick/pankajsanam.netlify.app/pull/9) in [antick/pankajsanam.netlify.app](https://github.com/antick/pankajsanam.netlify.app)
+4. 🎉 Merged PR [#8](https://github.com/antick/pankajsanam.netlify.app/pull/8) in [antick/pankajsanam.netlify.app](https://github.com/antick/pankajsanam.netlify.app)
 5. 🗣 Commented on [#164](https://github.com/bisguzar/twitter-scraper/issues/164) in [bisguzar/twitter-scraper](https://github.com/bisguzar/twitter-scraper)
 <!--END_SECTION:activity-->
 
