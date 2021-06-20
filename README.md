@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Pankaj
 
-I enjoy working on Node, React, Vue, Laravel, and Python. I also build stuff in my free time to fulfil my needs and increase my productivity. I am planning to open source some of my ideas soon. I also love to write and share my thoughts on my blogs.
+I enjoy working on Node, React, Next JS, Vue, Laravel, and Python. I also build stuff in my free time to fulfil my needs and increase my productivity. I am planning to open source some of my ideas soon. I also love to write and share my thoughts on my blogs.
 
 ✨ I'm currently working on a [MERN boilerplate](https://github.com/antick/mint)
 
@@ -15,7 +15,7 @@ I enjoy working on Node, React, Vue, Laravel, and Python. I also build stuff in 
 - Shape my ideas/thoughts and build great stuff 🎨
 - Contribute to the open source ecosystem 🎉
 - Get expertise in Python and Django 🏆
-- Learn Next.js ⚛
+- Learn React Native ⚛
 - Write consistently on my blogs 📝
 
 ### 👇🏼 Reach out to me
