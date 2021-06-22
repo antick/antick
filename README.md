@@ -31,6 +31,10 @@ I enjoy working on Node, React, Next JS, Vue, Laravel, and Python. I also build 
 - [Stackoverflow](https://stackoverflow.com/users/2886381/pankaj)
 - [Medium](https://medium.com/@pankajsanam)
 
+### 🗿 My favorite quotes
+
+- The more you sweat in training, the less you bleed in battle (प्रैक्टिस में बहाया पसीना, जंग में लहू को बचाता है)
+
 ### ✍🏻 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
