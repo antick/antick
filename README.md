@@ -112,6 +112,8 @@ Hoisting of v... </p> <br/> <br/>
 
 ![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=antick&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=vue)
 
+[Skyline Github Stats](https://skyline.github.com/antick/2021)
+
 ### 💻 My Trending Repos
 
 ![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-react&bg_color=45,ac3cad,2ea9ab&title_color=fff&text_color=fff)
