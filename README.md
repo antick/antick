@@ -47,6 +47,12 @@ I enjoy working on Node.js, React.js, Next.js, Vue.js, Laravel, and Python. I al
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
+<a href="https://slashism.com/why-should-you-start-your-dev-blog-on-hashnode" title="Why Should You Start Your Dev Blog On Hashnode"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604168209677/G7mSFUHSK.jpeg" alt="Why Should You Start Your Dev Blog On Hashnode" width="250px" align="left" /></a>
+<a href="https://slashism.com/why-should-you-start-your-dev-blog-on-hashnode" title="Why Should You Start Your Dev Blog On Hashnode"><strong>Why Should You Start Your Dev Blog On Hashnode</strong></a>
+<div><strong>26 Oct 2020</strong> | <strong>Updated: 2 Nov 2020</strong></div>
+<br/> Hashnode got featured on ProductHunt  recently. After reading all the reviews and experiences there from everyone, I thought I should write a post about my experience as well.
+Before I dig deeper into the Awesomeness of the Hashnode platform, I would... </p> <br/> <br/>
+<p align="left">
 <a href="https://slashism.com/remove-duplicates-from-a-javascript-array" title="Remove Duplicates from a JavaScript Array"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605279155205/I2bkW0uAd.jpeg" alt="Remove Duplicates from a JavaScript Array" width="250px" align="left" /></a>
 <a href="https://slashism.com/remove-duplicates-from-a-javascript-array" title="Remove Duplicates from a JavaScript Array"><strong>Remove Duplicates from a JavaScript Array</strong></a>
 <div><strong>13 Nov 2020</strong> | <strong>Updated: 13 Nov 2020</strong></div>
@@ -74,17 +80,6 @@ Let's transform this traditional function into an arrow func... </p> <br/> <br/>
 <div><strong>19 Oct 2020</strong> | <strong>Updated: 23 Oct 2020</strong></div>
 <br/> Hashnode blogs got this cool feature where you can apply Custom CSS on your blog. Although it's in the alpha stage and only available to the Hashnode Ambassadors.
 So I played around a bit and came up with this initial template where I have added the ... </p> <br/> <br/>
-<p align="left">
-<a href="https://slashism.com/hoisting-in-javascript" title="Hoisting in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602436860808/e5c9aM0c2.jpeg" alt="Hoisting in JavaScript" width="250px" align="left" /></a>
-<a href="https://slashism.com/hoisting-in-javascript" title="Hoisting in JavaScript"><strong>Hoisting in JavaScript</strong></a>
-<div><strong>19 Oct 2020</strong> | <strong>Updated: 13 Mar 2021</strong></div>
-<br/> Just so you know:
-
-
-Hoisting is a JavaScript mechanism where variables and function declarations are moved to the top of their scope before code execution.
-
-Let's understand the hoisting for different variable declarations and function:
-Hoisting of v... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
 ### StackOverflow Activity
