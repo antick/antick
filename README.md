@@ -120,7 +120,7 @@ Hoisting of v... </p> <br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-express&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Perl: The only language that looks the same before and after RSA encryption.”— Keith Bostic   ❞</i>
+<i>❝“The Internet?  We are not interested in it.”— Bill Gates, 1993   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <code>
