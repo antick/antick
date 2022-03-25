@@ -38,11 +38,11 @@ I enjoy working on Node.js, React.js, Next.js, Vue.js, Laravel, and Python. I al
 ### ✍🏻 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [ECMAScript 5 &lpar;2009&rpar;](https://slashism.com/ecmascript-5-2009)
 - [Remove Duplicates from a JavaScript Array](https://slashism.com/remove-duplicates-from-a-javascript-array)
 - [Why Should You Start Your Dev Blog On Hashnode](https://slashism.com/why-should-you-start-your-dev-blog-on-hashnode)
 - [Arrow Functions in JavaScript](https://slashism.com/arrow-functions-in-javascript)
 - [How I Added Sticky Header and Custom CSS on My Hashnode Blog](https://slashism.com/how-i-added-sticky-header-and-custom-css-on-my-hashnode-blog)
-- [Hoisting in JavaScript](https://slashism.com/hoisting-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- HASHNODE_BLOG:START -->
