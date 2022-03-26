@@ -61,13 +61,11 @@ Before I dig deeper into the Awesomeness of the Hashnode platform, I would... </
 <p align="left">
 <a href="https://slashism.com/arrow-functions-in-javascript" title="Arrow Functions in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604247515262/OWJwy-gtw.jpeg" alt="Arrow Functions in JavaScript" width="250px" align="left" /></a>
 <a href="https://slashism.com/arrow-functions-in-javascript" title="Arrow Functions in JavaScript"><strong>Arrow Functions in JavaScript</strong></a>
-<div><strong>26 Oct 2020</strong> | <strong>Updated: 13 Mar 2021</strong></div>
-<br/> Arrow functions were introduced in ES6. But before diving deeper into arrow functions, let's see how we write functions in a traditional way:
+<div><strong>26 Oct 2020</strong> | <strong>Updated: 25 Mar 2022</strong></div>
+<br/> Arrow functions are a new way of writing a traditional function. This way the function is shorter and quicker to write. Arrow functions were introduced in ES6.
+Let's see how we write functions in a traditional way:
 const sum = function(a, b) {
-  return a + b;
-}
-
-Let's transform this traditional function into an arrow func... </p> <br/> <br/>
+  retu... </p> <br/> <br/>
 <p align="left">
 <a href="https://slashism.com/how-i-added-sticky-header-and-custom-css-on-my-hashnode-blog" title="How I Added Sticky Header and Custom CSS on My Hashnode Blog"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603047372899/uLPrd3Qqu.jpeg" alt="How I Added Sticky Header and Custom CSS on My Hashnode Blog" width="250px" align="left" /></a>
 <a href="https://slashism.com/how-i-added-sticky-header-and-custom-css-on-my-hashnode-blog" title="How I Added Sticky Header and Custom CSS on My Hashnode Blog"><strong>How I Added Sticky Header and Custom CSS on My Hashnode Blog</strong></a>
