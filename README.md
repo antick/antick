@@ -31,9 +31,15 @@ I enjoy working on Node.js, React.js, Next.js, Vue.js, Laravel, and Python. I al
 - [Stackoverflow](https://stackoverflow.com/users/2886381/pankaj)
 - [Medium](https://medium.com/@pankajsanam)
 
-### 🗿 My favorite quotes
+### 🗿 Quotes that inspire me
 
 - The more you sweat in training, the less you bleed in battle (प्रैक्टिस में बहाया पसीना, जंग में लहू को बचाता है)
+
+### 🗿 My Own Quotes (Yes, sometimes I do that)
+
+- I am ambitious with what I want in my life and what I want to achieve but for everything else I am content. - Pankaj Sanam
+- Your reaction to something, shapes your personality for others. - Pankaj Sanam
+- We as a human, cannot possibly survive without the "hope". We fight, struggle and move forward with a "hope", that one day things would be better. Without "hope" we would give up and vanish. - Pankaj Sanam
 
 ### ✍🏻 My Latest Blog Posts
 
