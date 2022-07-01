@@ -53,17 +53,17 @@ I enjoy working on Node.js, React.js, Next.js, Vue.js, Laravel, and Python. I al
 
 <!-- HASHNODE_BLOG:START -->
 <p align="left">
-<a href="https://slashism.com/remove-duplicates-from-a-javascript-array" title="Remove Duplicates from a JavaScript Array"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605279155205/I2bkW0uAd.jpeg" alt="Remove Duplicates from a JavaScript Array" width="250px" align="left" /></a>
-<a href="https://slashism.com/remove-duplicates-from-a-javascript-array" title="Remove Duplicates from a JavaScript Array"><strong>Remove Duplicates from a JavaScript Array</strong></a>
-<div><strong>13 Nov 2020</strong> | <strong>Updated: 13 Nov 2020</strong></div>
-<br/> This is one of my favorite questions that I ask in my interviews. I was also asked this question initially when I started my career as a web dev.
-It's a very simple problem yet surprisingly, many fail to answer. I know because I have asked many candi... </p> <br/> <br/>
-<p align="left">
 <a href="https://slashism.com/why-should-you-start-your-dev-blog-on-hashnode" title="Why Should You Start Your Dev Blog On Hashnode"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604168209677/G7mSFUHSK.jpeg" alt="Why Should You Start Your Dev Blog On Hashnode" width="250px" align="left" /></a>
 <a href="https://slashism.com/why-should-you-start-your-dev-blog-on-hashnode" title="Why Should You Start Your Dev Blog On Hashnode"><strong>Why Should You Start Your Dev Blog On Hashnode</strong></a>
 <div><strong>26 Oct 2020</strong> | <strong>Updated: 2 Nov 2020</strong></div>
 <br/> Hashnode got featured on ProductHunt  recently. After reading all the reviews and experiences there from everyone, I thought I should write a post about my experience as well.
 Before I dig deeper into the Awesomeness of the Hashnode platform, I would... </p> <br/> <br/>
+<p align="left">
+<a href="https://slashism.com/remove-duplicates-from-a-javascript-array" title="Remove Duplicates from a JavaScript Array"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1605279155205/I2bkW0uAd.jpeg" alt="Remove Duplicates from a JavaScript Array" width="250px" align="left" /></a>
+<a href="https://slashism.com/remove-duplicates-from-a-javascript-array" title="Remove Duplicates from a JavaScript Array"><strong>Remove Duplicates from a JavaScript Array</strong></a>
+<div><strong>13 Nov 2020</strong> | <strong>Updated: 13 Nov 2020</strong></div>
+<br/> This is one of my favorite questions that I ask in my interviews. I was also asked this question initially when I started my career as a web dev.
+It's a very simple problem yet surprisingly, many fail to answer. I know because I have asked many candi... </p> <br/> <br/>
 <p align="left">
 <a href="https://slashism.com/arrow-functions-in-javascript" title="Arrow Functions in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1604247515262/OWJwy-gtw.jpeg" alt="Arrow Functions in JavaScript" width="250px" align="left" /></a>
 <a href="https://slashism.com/arrow-functions-in-javascript" title="Arrow Functions in JavaScript"><strong>Arrow Functions in JavaScript</strong></a>
