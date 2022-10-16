@@ -29,7 +29,7 @@ I enjoy working on Node, Vue and Python. I used to work a lot on Laravael but no
 
 - [Hashnode](https://hashnode.com/@pankajsanam)
 - [Dev](https://dev.to/pankajsanam)
-- [ ](https://stackoverflow.com/users/2886381/pankaj)
+- [Stackoverflow](https://stackoverflow.com/users/2886381/pankaj)
 - [Medium](https://medium.com/@pankajsanam)
 
 ### 🗿 Quotes that inspire me
