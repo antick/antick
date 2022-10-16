@@ -2,11 +2,11 @@
 
 I enjoy working on Node.js, React.js, Next.js, Vue.js, Laravel, and Python. I also build stuff in my free time to satisfy my needs and increase my productivity. I am planning to open source some of my ideas soon. I also love to write and share my thoughts on my blogs.
 
-✨ I'm currently working on a [MERN boilerplate](https://github.com/antick/mint)
+✨ I'm currently working on a [Boilerplate](https://github.com/antick/mint-kit) and few other interesting stuff
 
-😍 I'm currently learning Python 🐍
+😍 I'm currently learning about Kubernetes
 
-🎮 I enjoy playing Crusader Kings III, Insurgency: Sandstorm, Skyrim and GTA 5 on steam.
+🎮 I play Crusader Kings III on steam a lot. I am also actively building CK3 mods.
 
 🐤 Ask me about anything on [Twitter](https://twitter.com/PankajSanam)
 
@@ -14,7 +14,7 @@ I enjoy working on Node.js, React.js, Next.js, Vue.js, Laravel, and Python. I al
 
 - Shape my ideas/thoughts and build great stuff 🎨
 - Contribute to the open source ecosystem 🎉
-- Get expertise in Python and Django 🏆
+- Get my side project up and running 🏆
 - Learn React Native ⚛
 - Write consistently on my blogs 📝
 
@@ -35,11 +35,11 @@ I enjoy working on Node.js, React.js, Next.js, Vue.js, Laravel, and Python. I al
 
 - The more you sweat in training, the less you bleed in battle (प्रैक्टिस में बहाया पसीना, जंग में लहू को बचाता है)
 
-### 🗿 My Own Quotes (Yes, sometimes I do that)
+### 🗿 My Very Own Thoughts
 
-- I am ambitious with what I want in my life and what I want to achieve but for everything else I am content. - Pankaj Sanam
-- Your reaction to something, shapes your personality for others. - Pankaj Sanam
-- We as a human, cannot possibly survive without the "hope". We fight, struggle and move forward with a "hope", that one day things would be better. Without "hope" we would give up and vanish. - Pankaj Sanam
+- I am ambitious with what I want to achieve in my life but for everything else I am content. - Pankaj Sanam
+- Your reaction to something shapes your personality for others. - Pankaj Sanam
+- We as a human, cannot possibly survive without the "hope". We fight, struggle and move forward with a "hope", that one day things would get better. Without "hope" we would give up and vanish. - Pankaj Sanam
 
 ### ✍🏻 My Latest Blog Posts
 
