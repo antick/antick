@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Pankaj
 
-I enjoy working on Node.js, React.js, Next.js, Vue.js, Laravel, and Python. I also build stuff in my free time to satisfy my needs and increase my productivity. I am planning to open source some of my ideas soon. I also love to write and share my thoughts on my blogs.
+I enjoy working on Node, Vue and Python. I used to work a lot on Laravael but nowadays I prefer sticking with the Javascipt Ecosystem. I also build stuff in my free time to satisfy my needs and increase my productivity. I am planning to open source some of my ideas soon. I also love to write and share my thoughts on my blogs.
 
 ✨ I'm currently working on a [Boilerplate](https://github.com/antick/mint-kit) and few other interesting stuff
 
@@ -14,8 +14,9 @@ I enjoy working on Node.js, React.js, Next.js, Vue.js, Laravel, and Python. I al
 
 - Shape my ideas/thoughts and build great stuff 🎨
 - Contribute to the open source ecosystem 🎉
-- Get my side project up and running 🏆
+- Get my side project up and running with Nest and Quasar framework 🏆
 - Learn React Native ⚛
+- Get my hands on Deno and Bun. 🎯
 - Write consistently on my blogs 📝
 
 ### 👇🏼 Reach out to me
@@ -28,7 +29,7 @@ I enjoy working on Node.js, React.js, Next.js, Vue.js, Laravel, and Python. I al
 
 - [Hashnode](https://hashnode.com/@pankajsanam)
 - [Dev](https://dev.to/pankajsanam)
-- [Stackoverflow](https://stackoverflow.com/users/2886381/pankaj)
+- [ ](https://stackoverflow.com/users/2886381/pankaj)
 - [Medium](https://medium.com/@pankajsanam)
 
 ### 🗿 Quotes that inspire me
