@@ -121,8 +121,8 @@ Hoisting of v... </p> <br/> <br/>
 
 ### 💻 My Trending Repos
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-react&bg_color=45,ac3cad,2ea9ab&title_color=fff&text_color=fff)
-![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-express&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-kit&bg_color=45,ac3cad,2ea9ab&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-kit&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
