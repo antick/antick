@@ -125,7 +125,7 @@ Hoisting of v... </p> <br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-kit&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝More than 80% of the emails sent daily are spams.❞</i>
+<i>❝“From a programmer’s point of view, the user is a peripheral that types when you issue a read request.”— P. Williams   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <code>
