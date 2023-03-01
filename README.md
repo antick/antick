@@ -125,7 +125,7 @@ Hoisting of v... </p> <br/> <br/>
 ![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-kit&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
+<i>❝“BASIC is to computer programming as QWERTY is to typing.”— Seymour Papert   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <code>
