@@ -76,9 +76,9 @@ const sum = function(a, b) {
 <p align="left">
 <a href="https://slashism.com/how-i-added-sticky-header-and-custom-css-on-my-hashnode-blog" title="How I Added Sticky Header and Custom CSS on My Hashnode Blog"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1603047372899/uLPrd3Qqu.jpeg" alt="How I Added Sticky Header and Custom CSS on My Hashnode Blog" width="250px" align="left" /></a>
 <a href="https://slashism.com/how-i-added-sticky-header-and-custom-css-on-my-hashnode-blog" title="How I Added Sticky Header and Custom CSS on My Hashnode Blog"><strong>How I Added Sticky Header and Custom CSS on My Hashnode Blog</strong></a>
-<div><strong>19 Oct 2020</strong> | <strong>Updated: 23 Oct 2020</strong></div>
-<br/> Hashnode blogs got this cool feature where you can apply Custom CSS on your blog. Although it's in the alpha stage and only available to the Hashnode Ambassadors.
-So I played around a bit and came up with this initial template where I have added the ... </p> <br/> <br/>
+<div><strong>19 Oct 2020</strong> | <strong>Updated: 19 June 2023</strong></div>
+<br/> Update:  Please note that some of the CSS changes mentioned below may no longer work on Hashnode blogs, as they have implemented numerous updates since this article was written. For instance, the entire reaction block has been overhauled
+Hashnode blo... </p> <br/> <br/>
 <p align="left">
 <a href="https://slashism.com/hoisting-in-javascript" title="Hoisting in JavaScript"><img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1602436860808/e5c9aM0c2.jpeg" alt="Hoisting in JavaScript" width="250px" align="left" /></a>
 <a href="https://slashism.com/hoisting-in-javascript" title="Hoisting in JavaScript"><strong>Hoisting in JavaScript</strong></a>
