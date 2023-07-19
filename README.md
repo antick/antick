@@ -1,12 +1,12 @@
 ## Hi there 👋 my name is Pankaj
 
-I enjoy working on Node, Vue and Python. I used to work a lot on Laravael but nowadays I prefer sticking with the Javascipt Ecosystem. I also build stuff in my free time to satisfy my needs and increase my productivity. I am planning to open source some of my ideas soon. I also love to write and share my thoughts on my blogs.
+I enjoy working on Javascript, Python and Go. I also build stuff in my free time to satisfy my needs and increase my productivity. I am planning to open source some of my ideas soon. I also love to write and share my thoughts on my blogs.
 
 ✨ I'm currently working on a [Boilerplate](https://github.com/antick/mint-kit) and few other interesting stuff
 
 😍 I'm currently learning about Kubernetes
 
-🎮 I play Crusader Kings III on steam a lot. I am also actively building CK3 mods.
+🎮 I play Crusader Kings III on steam and enjoy building the mods for it.
 
 🐤 Ask me about anything on [Twitter](https://twitter.com/PankajSanam)
 
@@ -14,9 +14,9 @@ I enjoy working on Node, Vue and Python. I used to work a lot on Laravael but no
 
 - Shape my ideas/thoughts and build great stuff 🎨
 - Contribute to the open source ecosystem 🎉
-- Get my side project up and running with Nest and Quasar framework 🏆
-- Learn React Native ⚛
-- Get my hands on Deno and Bun. 🎯
+- Get my side project up and running 🏆
+- Learn Swift and build iOS and MacOS apps ⚛
+- Get my hands on Rust 🎯
 - Write consistently on my blogs 📝
 
 ### 👇🏼 Reach out to me
