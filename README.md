@@ -45,11 +45,11 @@ I enjoy working on Javascript, Python and Go. I also build stuff in my free time
 ### ✍🏻 My Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Remove Duplicates from a JavaScript Array](https://slashism.com/remove-duplicates-from-a-javascript-array)
-- [Why Should You Start Your Dev Blog On Hashnode](https://slashism.com/why-should-you-start-your-dev-blog-on-hashnode)
-- [Arrow Functions in JavaScript](https://slashism.com/arrow-functions-in-javascript)
-- [How I Added Sticky Header and Custom CSS on My Hashnode Blog](https://slashism.com/how-i-added-sticky-header-and-custom-css-on-my-hashnode-blog)
-- [Hoisting in JavaScript](https://slashism.com/hoisting-in-javascript)
+- [Remove Duplicates from a JavaScript Array](https://pankajsanam.hashnode.dev/remove-duplicates-from-a-javascript-array)
+- [Why Should You Start Your Dev Blog On Hashnode](https://pankajsanam.hashnode.dev/why-should-you-start-your-dev-blog-on-hashnode)
+- [Arrow Functions in JavaScript](https://pankajsanam.hashnode.dev/arrow-functions-in-javascript)
+- [How I Added Sticky Header and Custom CSS on My Hashnode Blog](https://pankajsanam.hashnode.dev/how-i-added-sticky-header-and-custom-css-on-my-hashnode-blog)
+- [Hoisting in JavaScript](https://pankajsanam.hashnode.dev/hoisting-in-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- HASHNODE_BLOG:START -->
