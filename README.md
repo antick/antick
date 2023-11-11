@@ -92,16 +92,6 @@ Let's understand the hoisting for different variable declarations and function:
 Hoisting of v... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-### ⚡ My Github Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/antick/pankajsanam.netlify.app/pull/15) in [antick/pankajsanam.netlify.app](https://github.com/antick/pankajsanam.netlify.app)
-2. 🎉 Merged PR [#7](https://github.com/antick/radium/pull/7) in [antick/radium](https://github.com/antick/radium)
-3. 🎉 Merged PR [#14](https://github.com/antick/pankajsanam.netlify.app/pull/14) in [antick/pankajsanam.netlify.app](https://github.com/antick/pankajsanam.netlify.app)
-4. 🎉 Merged PR [#13](https://github.com/antick/pankajsanam.netlify.app/pull/13) in [antick/pankajsanam.netlify.app](https://github.com/antick/pankajsanam.netlify.app)
-5. 🎉 Merged PR [#6](https://github.com/antick/radium/pull/6) in [antick/radium](https://github.com/antick/radium)
-<!--END_SECTION:activity-->
-
 ### 💻 My Github Stats
 
 ![Metrics](https://metrics.lecoq.io/antick?template=classic&pagespeed=1&languages=1&isocalendar=1&followup=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
