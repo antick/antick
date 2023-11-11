@@ -92,15 +92,6 @@ Let's understand the hoisting for different variable declarations and function:
 Hoisting of v... </p> <br/> <br/>
 <!-- HASHNODE_BLOG:END -->
 
-### StackOverflow Activity
-<!-- STACKOVERFLOW:START -->
-- [Answer by Pankaj for After add encryption function "The payload is invalid" error shows up](https://stackoverflow.com/questions/54968437/after-add-encryption-function-the-payload-is-invalid-error-shows-up/55026284#55026284)
-- [Answer by Pankaj for Laravel Ajax dropdown example](https://stackoverflow.com/questions/55017659/laravel-ajax-dropdown-example/55018381#55018381)
-- [Answer by Pankaj for Using unique() method when generating a list of options in blade template](https://stackoverflow.com/questions/55016464/using-unique-method-when-generating-a-list-of-options-in-blade-template/55017111#55017111)
-- [Answer by Pankaj for Validation of Laravel does not show me the errors in the view](https://stackoverflow.com/questions/55009449/validation-of-laravel-does-not-show-me-the-errors-in-the-view/55009727#55009727)
-- [Answer by Pankaj for How do I create an "add-on" package for my Laravel Project](https://stackoverflow.com/questions/55008400/how-do-i-create-an-add-on-package-for-my-laravel-project/55008967#55008967)
-<!-- STACKOVERFLOW:END -->
-
 ### ⚡ My Github Activity
 
 <!--START_SECTION:activity-->
