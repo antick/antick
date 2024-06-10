@@ -19,12 +19,6 @@ I enjoy working on Javascript, Python and Go. I also build stuff in my free time
 - Build great things in Rust 🎯
 - Write consistently on my blogs 📝
 
-### 👇🏼 Reach out to me
-
-- [Twitter](https://twitter.com/pankajsanam)
-- [Email](mailto:pankaj@desk.sh)
-- [Linkedin](https://www.linkedin.com/in/pankajsanam)
-
 ### 🗿 Quotes that inspire me
 
 - The more you sweat in training, the less you bleed in battle (प्रैक्टिस में बहाया पसीना, जंग में लहू को बचाता है)
