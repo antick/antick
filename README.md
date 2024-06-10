@@ -35,17 +35,9 @@ I enjoy working on Javascript, Python and Go. I also build stuff in my free time
 - Your reaction to something shapes your personality for others. - Pankaj Sanam
 - As humans, we cannot possibly survive without hope. We fight, struggle, and move forward with the hope that one day things will get better. Without hope, we would give up and vanish. - Pankaj Sanam
 
-### 💻 My Github Stats
-
-![Metrics](https://metrics.lecoq.io/antick?template=classic&pagespeed=1&languages=1&isocalendar=1&followup=1&pagespeed.detailed=true&pagespeed.screenshot=false&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta)
-
-![Pankaj's github stats](https://github-readme-stats.vercel.app/api?username=antick&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=vue)
-
-[Skyline Github Stats](https://skyline.github.com/antick/2021)
-
 ### 💻 My Trending Repos
 
-![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-kit&bg_color=45,ac3cad,2ea9ab&title_color=fff&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mojo&bg_color=45,ac3cad,2ea9ab&title_color=fff&text_color=fff)
 ![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-kit&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 <!--STARTS_HERE_QUOTE_README-->
