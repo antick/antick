@@ -2,7 +2,7 @@
 
 I enjoy working on Javascript, Python and Go. I also build stuff in my free time to increase my productivity. I also love to write and share my thoughts on my blogs.
 
-✨ I'm currently working on a Rust based Ck3 Mod.
+✨ I'm currently working on my side project.
 
 😍 I'm currently learning more about Rust
 
