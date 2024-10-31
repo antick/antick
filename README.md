@@ -35,7 +35,7 @@ I enjoy working on Javascript, Python and Go. I also build stuff in my free time
 ![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-kit&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology.”— Bruce Schneier  ❞</i>
+<i>❝“Mostly, when you see programmers, they aren’t doing anything.  One of the attractive things about programmers is that you cannot tell whether or not they are working simply by looking at them.  Very often they’re sitting there seemingly drinking coffee and gossiping, or just staring into space.  What the programmer is trying to do is get a handle on all the individual and unrelated ideas that are scampering around in his head.”— Charles M. Strauss   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=antick'></p>
