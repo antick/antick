@@ -6,9 +6,7 @@ I enjoy working on Javascript, Python and Go. In my free time, I also build stuf
 
 😍 I'm currently learning more about Rust.
 
-🎮 I enjoy playing Crusader Kings III and a few other games on Steam.
-
-🐤 Let's connect on [X/Twitter](https://x.com/pankajsanam)
+🎮 I enjoy playing COD on iPad and Crusader Kings III along with a few other games on Steam.
 
 ### 🎯 Things I want to do this year
 
@@ -21,13 +19,13 @@ I enjoy working on Javascript, Python and Go. In my free time, I also build stuf
 
 ### 🗿 Quotes that inspire me
 
-- The more you sweat in training, the less you bleed in battle (प्रैक्टिस में बहाया पसीना, जंग में लहू को बचाता है)
+- The more you sweat in training, the less you bleed in battle (अभ्यास में जितना अधिक पसीना बहाओ, युद्ध में उतना ही कम खून बहाना पड़ेगा।)
 
-### 🗿 My Quotes
+### 🗿 Favorite Quotes
 
-- I am ambitious with what I want to achieve in my life but for everything else I am content. - Pankaj Sanam
-- Your reaction to something shapes your personality for others. - Pankaj Sanam
-- As humans, we cannot possibly survive without hope. We fight, struggle, and move forward, hoping that one day things will get better. Without hope, we would give up and vanish. - Pankaj Sanam
+- I am ambitious about what I want to achieve in my life, but for everything else, I am content. - Pankaj Sanam
+- Your reaction to something shapes how others perceive your personality. - Pankaj Sanam
+- We cannot survive without hope. We fight, struggle, and move forward, believing that one day things will get better. Without hope, we would give up and fade away. - Pankaj Sanam
 
 ### 💻 My Active Public Repos
 
