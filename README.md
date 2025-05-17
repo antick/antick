@@ -6,7 +6,7 @@ I enjoy working on Javascript, Python and Go. In my free time, I also build stuf
 
 😍 I'm currently learning more about Rust.
 
-🎮 I enjoy playing COD on iPad and Crusader Kings III along with a few other games on Steam.
+🎮 I enjoy playing COD-M and Crusader Kings III along with a few other games on Steam.
 
 ### 🎯 Things I want to do this year
 
