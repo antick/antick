@@ -33,7 +33,7 @@ I enjoy working on Javascript, Python and Go. In my free time, I also build stuf
 ![](https://github-readme-stats.vercel.app/api/pin/?username=antick&repo=mint-kit&bg_color=45,fc00ff,00dbde&title_color=fff&text_color=fff)
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It has been discovered that C++ provides a remarkable facility for concealing the trivial details of a program — such as where its bugs are.”— David Keppel   ❞</i>
+<i>❝Facebook has over a billion users. If it was a country it would be the third largest in the world.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=antick'></p>
