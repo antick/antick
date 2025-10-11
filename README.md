@@ -14,7 +14,7 @@ In my free time, I work on my side projects, write on my blogs, and explore ways
 * Build robust systems and apps in **Golang and Rust** ⚡
 * Write consistently and share insights on my blogs ✍️
 
-### 🗿 Quotes that guide me
+### 🗿 Favorite Quotes
 
 > *"The more you sweat in training, the less you bleed in battle."*
 > *(अभ्यास में जितना अधिक पसीना बहाओ, युद्ध में उतना ही कम खून बहाना पड़ेगा।)*
