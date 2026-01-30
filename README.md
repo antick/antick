@@ -13,7 +13,7 @@ I enjoy designing clean architectures, writing minimal yet high-leverage code, a
 
 ### 🚀 What I'm Building
 
-* An ultimate productity app to scratch my own itch
+* An ultimate productity app to save my time
 * CLI tools & backend services using Bun
 * Self-hosted productivity stack & cloud-native pipelines
 * Consistent writing - tech, systems, productivity, philosophy
@@ -32,11 +32,9 @@ I enjoy designing clean architectures, writing minimal yet high-leverage code, a
 
 ### 🛠️ Tech I Work With
 
-**Languages:** JavaScript • TypeScript • Python • Bun
-
 **Backend:** Bun • Node.js • NestJS • Fastify • Express
 
-**Frontend:** React • Tailwind • Astro
+**Frontend:** React • Tailwind • Astro • TanStack
 
 **Cloud & Infra:** Docker • Nginx • CI/CD • GCP • DigitalOcean • Cloud Run • VM orchestration
 
