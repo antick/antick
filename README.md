@@ -23,7 +23,7 @@ I enjoy designing clean architectures, writing minimal yet high-leverage code, a
 
 ### 🎯 Goals This Year
 
-* Shape ideas into real, meaningful products 🎨
+* Shape ideas into real, meaningful products
 * Launch and grow my side projects 🏆
 * Build fast, pragmatic tools with **Bun** ⚡
 * Build in public through blogs + project updates
