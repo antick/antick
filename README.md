@@ -1,56 +1,68 @@
-## Hi there 👋
+# Hi, I'm Pankaj 👋
 
-I'm **Pankaj** — a Technology Lead and Architect who builds products end-to-end, scales systems, and experiments with ideas that genuinely excite me.
+> A Technology Lead and Architect who builds products end-to-end, and experiments with ideas that are genuinely exciting.
 
-I work across **Node.js, Bun, NestJS, Python, React, Golang**, and modern cloud infrastructure.
-Over time, I’ve moved my **side projects and CLI tools from Golang to Bun** — primarily for its speed, tight feedback loop, excellent DX, and how fast it lets me go from idea → working tool.
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/-Bun-F9F1E1?style=flat-square&logo=bun&logoColor=000000)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
+![xAI](https://img.shields.io/badge/-X%20AI-000000?style=flat-square&logo=x&logoColor=white)
 
-I enjoy designing clean architectures, writing minimal yet high-leverage code, and building software that is **actually used**, not just deployed.
+## Open Source Projects
 
-✨ Exploring deeply: **Bun • System design • Cloud architecture**
+- **[Mojo](https://github.com/antick/mojo)** - A Crusader Kings 3 (CK3) mod builder.
 
----
+## Closed Source Projects
 
-### 🚀 What I'm Building
+- **[slashism.com](https://slashism.com/)** – My tech blog built with Astro.
 
-* An ultimate productity app to save my time
-* CLI tools & backend services using Bun
-* Self-hosted productivity stack & cloud-native pipelines
-* Consistent writing - tech, systems, productivity, philosophy
-* Spiritual & meditative studies for balance 🕊️
+## GitHub Activity
 
----
+![GitHub Contribution Graph](https://ghchart.rshah.org/antick)
 
-### 🎯 Goals This Year
+## 🚀 What I'm Doing
 
-* Shape ideas into real, meaningful products
-* Launch and grow my side projects 🏆
-* Build fast, pragmatic tools with **Bun** ⚡
-* Build in public through blogs + project updates
+- **Building an ultimate productivity app** - Creating a system to save time, stay focused, and run life + work smoothly
+- **CLI tools & backend services** - Shipping fast, minimal and high-performance tooling using Bun
+- **Writing consistently** - Tech, systems, productivity, and philosophy (real learnings, not fluff)
+- **Spiritual practice** - Deepening my daily practice and inner discipline
+- **Meditation** - Practicing daily to sharpen focus, calm the mind, and stay centered
 
----
+## 🛠️ My Current Favorite Tech Stack (Always evolving)
 
-### 🛠️ Tech I Work With
-
-**Backend:** Bun • Node.js • NestJS • Fastify • Express
-
-**Frontend:** React • Tailwind • Astro • TanStack
-
-**Cloud & Infra:** Docker • Nginx • CI/CD • GCP • DigitalOcean • Cloud Run • VM orchestration
-
-**Databases:** PostgreSQL • MongoDB • Redis / Valkey
-
-**Automation & Workflows:** Prefect • n8n
-
----
+**Backend:** Bun, Elysia.js, Node.js, NestJS, Fastify  
+**Frontend:** React, Tailwind CSS, Astro.js, TanStack (Router, Query)  
+**Cloud & Infra:** Docker, Nginx, CI/CD, DigitalOcean  
+**Databases:** PostgreSQL, MongoDB, Valkey  
+**Automation & Workflows:** Prefect, n8n
 
 ### 📚 Philosophy
 
 > *"The more you sweat in training, the less you bleed in battle."*  
 > *(अभ्यास में जितना अधिक पसीना बहाओ, युद्ध में उतना ही कम खून बहाना पड़ेगा।)*
 
----
+<details>
+<summary>Random facts about me</summary>
 
-### 📈 GitHub Streak
+- I rarely consume caffeine - I'm more of a sweet lemonade and sweet yogurt person 😄
+- I'm one of those rare guys who doesn't like cricket. People in my country are crazy about it.
+- I love writing my thoughts down. Even with all the gadgets I have, I still enjoy using pen and paper.
+- I enjoy reading spiritual and occult stuff.
+- I play games when I feel less productive (World War Z, Skyrim, CK3, GTA V, COD-M).
+- As a kid, I wanted to be a doctor but everything changed when I got a computer for the first time.
+- I got into web development after being scammed for a PHP script years ago, so I decided to learn and build things myself.
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=antick&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&card_width=770)](https://git.io/streak-stats)
+</details>
+
+## Connect
+
+[![X](https://img.shields.io/badge/-X/Twitter-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/pankajsanam)
+[![Blog](https://img.shields.io/badge/-Blog-223421?style=flat-square&logo=astro&logoColor=white)](https://slashism.com)
+[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajsanam)
+[![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/antick)
