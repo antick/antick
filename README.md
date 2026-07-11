@@ -14,14 +14,6 @@
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
 ![xAI](https://img.shields.io/badge/-X%20AI-000000?style=flat-square&logo=x&logoColor=white)
 
-## Open Source Projects
-
-- **[Mojo](https://github.com/antick/mojo)** - A Crusader Kings 3 (CK3) mod builder.
-
-## Closed Source Projects
-
-- **[slashism.com](https://slashism.com/)** – My tech blog built with Astro.
-
 ## GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/antick)
@@ -36,11 +28,11 @@
 
 ## 🛠️ My Current Favorite Tech Stack (Always evolving)
 
-**Backend:** Bun, Elysia.js, Node.js, NestJS, Fastify  
+**Backend:** Bun, Elysia.js, Node.js, NestJS, Python  
 **Frontend:** React, Tailwind CSS, Astro.js, TanStack (Router, Query)  
 **Cloud & Infra:** Docker, Nginx, CI/CD, DigitalOcean  
 **Databases:** PostgreSQL, MongoDB, Valkey  
-**Automation & Workflows:** Prefect, n8n
+**AI:** OpenAI Codex, Claude, Grok
 
 ### 📚 Philosophy
 
@@ -51,7 +43,7 @@
 <summary>Random facts about me</summary>
 
 - I rarely consume caffeine - I'm more of a sweet lemonade and sweet yogurt person 😄
-- I'm one of those rare guys who doesn't like cricket. People in my country are crazy about it.
+- Most Indians are crazy about Cricket but I never liked.
 - I love writing my thoughts down. Even with all the gadgets I have, I still enjoy using pen and paper.
 - I enjoy reading spiritual and occult stuff.
 - I play games when I feel less productive (World War Z, Skyrim, CK3, GTA V, COD-M).
