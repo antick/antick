@@ -39,18 +39,6 @@
 > *"The more you sweat in training, the less you bleed in battle."*  
 > *(अभ्यास में जितना अधिक पसीना बहाओ, युद्ध में उतना ही कम खून बहाना पड़ेगा।)*
 
-<details>
-<summary>Random facts about me</summary>
-
-- I rarely consume caffeine - I'm more of a sweet lemonade and sweet yogurt person 😄
-- I love writing my thoughts down. Even with all the gadgets I have, I still enjoy using pen and paper.
-- I enjoy reading spiritual and occult stuff.
-- I play games when I feel less productive (World War Z, Skyrim, CK3, GTA V, COD-M).
-- As a kid, I wanted to be a doctor but everything changed when I got a computer for the first time.
-- I got into web development after being scammed for a PHP script years ago, so I decided to learn and build things myself.
-
-</details>
-
 ## Connect
 
 [![X](https://img.shields.io/badge/-X/Twitter-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/pankajsanam)
