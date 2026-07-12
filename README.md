@@ -43,7 +43,6 @@
 <summary>Random facts about me</summary>
 
 - I rarely consume caffeine - I'm more of a sweet lemonade and sweet yogurt person 😄
-- Most Indians are crazy about Cricket but I never liked.
 - I love writing my thoughts down. Even with all the gadgets I have, I still enjoy using pen and paper.
 - I enjoy reading spiritual and occult stuff.
 - I play games when I feel less productive (World War Z, Skyrim, CK3, GTA V, COD-M).
