@@ -28,11 +28,11 @@
 
 ## 🛠️ My Current Favorite Tech Stack (Always evolving)
 
-**Backend:** Bun, Elysia.js, Node.js, NestJS, Python  
+**Backend:** Bun, Hono.js, Elysia.js, Node.js, NestJS, Python  
 **Frontend:** React, Tailwind CSS, Astro.js, TanStack (Router, Query)  
 **Cloud & Infra:** Docker, Nginx, CI/CD, DigitalOcean  
 **Databases:** PostgreSQL, MongoDB, Valkey  
-**AI:** OpenAI Codex, Claude, Grok
+**AI:** Claude, Codex, Grok
 
 ### 📚 Philosophy
 
