@@ -1,47 +1,122 @@
-# Hi, I'm Pankaj 👋
+<div align="center">
+  <img src="./assets/profile-header.svg" alt="Pankaj Sanam, technology lead and product builder" width="100%">
+</div>
 
-> A Technology Lead and Architect who builds products end-to-end, and experiments with ideas that are genuinely exciting.
+<div align="center">
+  <a href="https://sanam.id">Website</a>
+  <span>&nbsp;·&nbsp;</span>
+  <a href="https://slashism.com">Writing</a>
+  <span>&nbsp;·&nbsp;</span>
+  <a href="https://x.com/aghorism">X</a>
+  <span>&nbsp;·&nbsp;</span>
+  <a href="https://www.linkedin.com/in/pankajsanam">LinkedIn</a>
+</div>
 
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Bun](https://img.shields.io/badge/-Bun-F9F1E1?style=flat-square&logo=bun&logoColor=000000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Codex](https://img.shields.io/badge/-Codex-121212?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-10A37F?style=flat-square&logo=openai&logoColor=white)
-![xAI](https://img.shields.io/badge/-X%20AI-000000?style=flat-square&logo=x&logoColor=white)
+## I build from idea to production
 
-## GitHub Activity
+I am a technology lead and product builder who enjoys turning useful ideas into focused software. I work across product thinking, architecture, interfaces, infrastructure, and the details that make software pleasant to use.
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/antick)
+My current interests sit at the intersection of developer experience, AI-assisted workflows, productivity, and thoughtful publishing.
 
-## 🚀 What I'm Doing
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <strong>01 · Building</strong><br><br>
+      Focused tools that help people work with less friction and more clarity.
+    </td>
+    <td width="33%" valign="top">
+      <strong>02 · Exploring</strong><br><br>
+      Better interfaces and workflows for people building alongside AI agents.
+    </td>
+    <td width="33%" valign="top">
+      <strong>03 · Writing</strong><br><br>
+      Practical lessons on software, systems, architecture, AI, and cloud engineering.
+    </td>
+  </tr>
+</table>
 
-- **Building an ultimate productivity app** - Creating a system to save time, stay focused, and run life + work smoothly
-- **CLI tools & backend services** - Shipping fast, minimal and high-performance tooling using Bun
-- **Writing consistently** - Tech, systems, productivity, and philosophy (real learnings, not fluff)
-- **Spiritual practice** - Deepening my daily practice and inner discipline
-- **Meditation** - Practicing daily to sharpen focus, calm the mind, and stay centered
+## Selected work
 
-## 🛠️ My Current Favorite Tech Stack (Always evolving)
+<div align="center">
+  <img src="./assets/project-showcase.svg" alt="Capsule and Paperline project showcase" width="100%">
+</div>
 
-**Backend:** Bun, Hono.js, Elysia.js, Node.js, NestJS, Python  
-**Frontend:** React, Tailwind CSS, Astro.js, TanStack (Router, Query)  
-**Cloud & Infra:** Docker, Nginx, CI/CD, DigitalOcean  
-**Databases:** PostgreSQL, MongoDB, Valkey  
-**AI:** Claude, Codex, Grok
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Capsule</h3>
+      <p>A quiet edge dock for AI coding tools on macOS. It keeps usage limits, local agent activity, reset times, and token totals visible without pulling you out of your work.</p>
+      <p>
+        <a href="https://github.com/antick/capsule"><strong>Source</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://github.com/antick/capsule/releases/latest"><strong>Download</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Paperline</h3>
+      <p>An open-source Astro blog theme with an editorial layout, thoughtful typography, search, organized archives, rich reading tools, and a warm paper-inspired palette.</p>
+      <p>
+        <a href="https://github.com/antick/astro-paperline"><strong>Source</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://paperline.potion.sh"><strong>Live demo</strong></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
-### 📚 Philosophy
+## Tools I enjoy working with
 
-> *"The more you sweat in training, the less you bleed in battle."*  
-> *(अभ्यास में जितना अधिक पसीना बहाओ, युद्ध में उतना ही कम खून बहाना पड़ेगा।)*
+<div>
+  <img src="https://img.shields.io/badge/TypeScript-1f2937?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Bun-1f2937?style=for-the-badge&logo=bun&logoColor=FBF0DF" alt="Bun">
+  <img src="https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Astro-1f2937?style=for-the-badge&logo=astro&logoColor=FF5D01" alt="Astro">
+  <img src="https://img.shields.io/badge/PostgreSQL-1f2937?style=for-the-badge&logo=postgresql&logoColor=60A5FA" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+</div>
 
-## Connect
+I also work with Node.js, Python, Hono, Elysia, NestJS, Tailwind CSS, TanStack, MongoDB, Valkey, Nginx, CI/CD, and DigitalOcean. The exact stack changes with the problem.
 
-[![X](https://img.shields.io/badge/-X/Twitter-000000?style=flat-square&logo=twitter&logoColor=white)](https://x.com/pankajsanam)
-[![Blog](https://img.shields.io/badge/-Blog-223421?style=flat-square&logo=astro&logoColor=white)](https://slashism.com)
-[![LinkedIn](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pankajsanam)
-[![GitHub](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/antick)
+## Writing and learning
+
+At [Slashism](https://slashism.com), I publish deep tutorials and practical guides for people who build software. The subjects range from programming and AI engineering to system design, databases, DevOps, and cloud infrastructure.
+
+<p>
+  <a href="https://slashism.com/courses"><strong>Explore courses</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://slashism.com/tutorials"><strong>Read tutorials</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://slashism.com/guides"><strong>Browse guides</strong></a>
+</p>
+
+## How I work
+
+<table>
+  <tr>
+    <td width="33%" align="center"><strong>Think in systems</strong><br><sub>Understand the whole before polishing the parts.</sub></td>
+    <td width="33%" align="center"><strong>Keep it useful</strong><br><sub>Clarity and utility come before novelty.</sub></td>
+    <td width="33%" align="center"><strong>Learn by shipping</strong><br><sub>Real feedback beats prolonged speculation.</sub></td>
+  </tr>
+</table>
+
+Beyond software, daily meditation and spiritual practice help me cultivate the focus, discipline, and steadiness I bring to my work.
+
+## Let us connect
+
+I enjoy conversations about product engineering, developer tools, AI-assisted workflows, architecture, and the craft of building useful things.
+
+<p>
+  <a href="https://slashism.com">
+    <img src="https://img.shields.io/badge/Slashism-152238?style=for-the-badge&logo=astro&logoColor=white" alt="Slashism">
+  </a>
+  <a href="https://x.com/aghorism">
+    <img src="https://img.shields.io/badge/@aghorism-000000?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  <a href="https://www.linkedin.com/in/pankajsanam">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<div align="center">
+  <sub>Build with intent. Keep learning. Leave things better than you found them.</sub>
+</div>
