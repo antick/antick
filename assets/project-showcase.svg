@@ -1,90 +1,69 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-labelledby="title description">
   <title id="title">Selected projects</title>
-  <desc id="description">Visual cards for Capsule and Paperline</desc>
+  <desc id="description">Visual cards for Capsule, Paperline, and Netflix Hidden Categories</desc>
 
   <defs>
-    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#F7F8FC"/>
-      <stop offset="1" stop-color="#EEF1F8"/>
-    </linearGradient>
-    <linearGradient id="capsuleCard" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#111A31"/>
-      <stop offset="1" stop-color="#15102A"/>
-    </linearGradient>
-    <linearGradient id="paperCard" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#F5EEDA"/>
-      <stop offset="1" stop-color="#E8DAC0"/>
-    </linearGradient>
-    <linearGradient id="meter" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#59D7FF"/>
-      <stop offset="1" stop-color="#9C7CFF"/>
-    </linearGradient>
-    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="150%">
-      <feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#1E293B" flood-opacity="0.18"/>
-    </filter>
-    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1" fill="#7C8CAF" fill-opacity="0.2"/>
-    </pattern>
+    <linearGradient id="canvas" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F7F8FC"/><stop offset="1" stop-color="#EEF1F8"/></linearGradient>
+    <linearGradient id="capsuleCard" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#111A31"/><stop offset="1" stop-color="#15102A"/></linearGradient>
+    <linearGradient id="paperCard" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F5EEDA"/><stop offset="1" stop-color="#E8DAC0"/></linearGradient>
+    <linearGradient id="netflixCard" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#171717"/><stop offset="1" stop-color="#090909"/></linearGradient>
+    <linearGradient id="meter" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#59D7FF"/><stop offset="1" stop-color="#9C7CFF"/></linearGradient>
+    <filter id="cardShadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#1E293B" flood-opacity="0.18"/></filter>
+    <pattern id="dots" width="22" height="22" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#7C8CAF" fill-opacity="0.2"/></pattern>
   </defs>
 
   <rect width="1200" height="500" rx="30" fill="url(#canvas)"/>
   <rect width="1200" height="500" rx="30" fill="url(#dots)"/>
-
   <g filter="url(#cardShadow)">
-    <rect x="48" y="42" width="532" height="416" rx="28" fill="url(#capsuleCard)"/>
-    <rect x="620" y="42" width="532" height="416" rx="28" fill="url(#paperCard)"/>
+    <rect x="48" y="42" width="352" height="416" rx="28" fill="url(#capsuleCard)"/>
+    <rect x="424" y="42" width="352" height="416" rx="28" fill="url(#paperCard)"/>
+    <rect x="800" y="42" width="352" height="416" rx="28" fill="url(#netflixCard)"/>
   </g>
 
   <g>
-    <rect x="82" y="75" width="91" height="27" rx="13.5" fill="#59D7FF" fill-opacity="0.14" stroke="#59D7FF" stroke-opacity="0.42"/>
-    <text x="127.5" y="94" fill="#8BE4FF" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">MAC APP</text>
-    <text x="82" y="151" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="41" font-weight="750">Capsule</text>
-    <text x="82" y="181" fill="#A8B4CE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">Your AI tools, quietly in view.</text>
-
-    <rect x="82" y="221" width="295" height="173" rx="24" fill="#090E1B" stroke="#7683A4" stroke-opacity="0.25"/>
-    <circle cx="124" cy="264" r="20" fill="#15223B" stroke="#59D7FF" stroke-width="3" stroke-dasharray="94 32" transform="rotate(-90 124 264)"/>
-    <circle cx="124" cy="318" r="20" fill="#201936" stroke="#9C7CFF" stroke-width="3" stroke-dasharray="72 54" transform="rotate(-90 124 318)"/>
-    <circle cx="124" cy="372" r="20" fill="#2A211C" stroke="#FFB86B" stroke-width="3" stroke-dasharray="54 72" transform="rotate(-90 124 372)"/>
-    <text x="161" y="259" fill="#E5EAF5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600">CODEX</text>
-    <rect x="161" y="270" width="174" height="6" rx="3" fill="#23304A"/>
-    <rect x="161" y="270" width="137" height="6" rx="3" fill="url(#meter)"/>
-    <text x="161" y="313" fill="#E5EAF5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600">CLAUDE</text>
-    <rect x="161" y="324" width="174" height="6" rx="3" fill="#23304A"/>
-    <rect x="161" y="324" width="104" height="6" rx="3" fill="#9C7CFF"/>
-    <text x="161" y="367" fill="#E5EAF5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="600">GROK</text>
-    <rect x="161" y="378" width="174" height="6" rx="3" fill="#23304A"/>
-    <rect x="161" y="378" width="73" height="6" rx="3" fill="#FFB86B"/>
-
-    <rect x="403" y="203" width="130" height="209" rx="28" fill="#080D18" stroke="#59D7FF" stroke-opacity="0.35"/>
-    <rect x="422" y="229" width="92" height="29" rx="14.5" fill="#15223B"/>
-    <circle cx="440" cy="243.5" r="6" fill="#59D7FF"/>
-    <rect x="452" y="239.5" width="43" height="8" rx="4" fill="#485875"/>
-    <rect x="422" y="270" width="92" height="29" rx="14.5" fill="#201936"/>
-    <circle cx="440" cy="284.5" r="6" fill="#9C7CFF"/>
-    <rect x="452" y="280.5" width="34" height="8" rx="4" fill="#55466F"/>
-    <rect x="422" y="311" width="92" height="29" rx="14.5" fill="#2A211C"/>
-    <circle cx="440" cy="325.5" r="6" fill="#FFB86B"/>
-    <rect x="452" y="321.5" width="49" height="8" rx="4" fill="#655344"/>
-    <path d="M451 373H485" stroke="#59D7FF" stroke-width="3" stroke-linecap="round"/>
+    <rect x="78" y="75" width="91" height="27" rx="13.5" fill="#59D7FF" fill-opacity="0.14" stroke="#59D7FF" stroke-opacity="0.42"/>
+    <text x="123.5" y="94" fill="#8BE4FF" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">MAC APP</text>
+    <text x="78" y="151" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="38" font-weight="750">Capsule</text>
+    <text x="78" y="181" fill="#A8B4CE" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">Your AI tools, quietly in view.</text>
+    <rect x="78" y="221" width="292" height="174" rx="24" fill="#090E1B" stroke="#7683A4" stroke-opacity="0.25"/>
+    <circle cx="116" cy="261" r="18" fill="#15223B" stroke="#59D7FF" stroke-width="3" stroke-dasharray="84 29" transform="rotate(-90 116 261)"/>
+    <circle cx="116" cy="308" r="18" fill="#201936" stroke="#9C7CFF" stroke-width="3" stroke-dasharray="65 48" transform="rotate(-90 116 308)"/>
+    <circle cx="116" cy="355" r="18" fill="#2A211C" stroke="#FFB86B" stroke-width="3" stroke-dasharray="48 65" transform="rotate(-90 116 355)"/>
+    <text x="148" y="257" fill="#E5EAF5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600">CODEX</text>
+    <rect x="148" y="267" width="184" height="6" rx="3" fill="#23304A"/><rect x="148" y="267" width="145" height="6" rx="3" fill="url(#meter)"/>
+    <text x="148" y="304" fill="#E5EAF5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600">CLAUDE</text>
+    <rect x="148" y="314" width="184" height="6" rx="3" fill="#23304A"/><rect x="148" y="314" width="110" height="6" rx="3" fill="#9C7CFF"/>
+    <text x="148" y="351" fill="#E5EAF5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="600">GROK</text>
+    <rect x="148" y="361" width="184" height="6" rx="3" fill="#23304A"/><rect x="148" y="361" width="77" height="6" rx="3" fill="#FFB86B"/>
   </g>
 
   <g>
-    <rect x="654" y="75" width="119" height="27" rx="13.5" fill="#725C3B" fill-opacity="0.12" stroke="#725C3B" stroke-opacity="0.3"/>
-    <text x="713.5" y="94" fill="#725C3B" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">ASTRO THEME</text>
-    <text x="654" y="151" fill="#29251E" font-family="Georgia, ui-serif, serif" font-size="41" font-weight="700">Paperline</text>
-    <text x="654" y="181" fill="#6C6252" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="16">An editorial home for thoughtful writing.</text>
+    <rect x="454" y="75" width="119" height="27" rx="13.5" fill="#725C3B" fill-opacity="0.12" stroke="#725C3B" stroke-opacity="0.3"/>
+    <text x="513.5" y="94" fill="#725C3B" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">ASTRO THEME</text>
+    <text x="454" y="151" fill="#29251E" font-family="Georgia, ui-serif, serif" font-size="38" font-weight="700">Paperline</text>
+    <text x="454" y="181" fill="#6C6252" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15">An editorial home for writing.</text>
+    <rect x="454" y="221" width="292" height="174" rx="8" fill="#FFFCF5" stroke="#A9987A" stroke-opacity="0.35"/>
+    <rect x="474" y="243" width="86" height="7" rx="3.5" fill="#332E27"/><circle cx="720" cy="246.5" r="4" fill="#B3633F"/><path d="M474 264H726" stroke="#D8CEBC"/>
+    <text x="474" y="288" fill="#9A5B3E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="9" font-weight="700" letter-spacing="1.2">FEATURED STORY</text>
+    <text x="474" y="316" fill="#2F2A23" font-family="Georgia, ui-serif, serif" font-size="18" font-weight="700">Ideas worth reading</text>
+    <rect x="474" y="330" width="170" height="5" rx="2.5" fill="#B6AA97"/><rect x="474" y="342" width="142" height="5" rx="2.5" fill="#C9BEAC"/><rect x="474" y="365" width="70" height="17" rx="8.5" fill="#EFE5D3"/>
+    <rect x="657" y="282" width="69" height="100" rx="4" fill="#D8C4A1"/><circle cx="691.5" cy="318" r="16" fill="#C29364" fill-opacity="0.6"/><path d="M667 365C677 342 685 355 694 341C704 327 711 359 720 338" fill="none" stroke="#8A6B4C" stroke-width="3" stroke-linecap="round"/>
+  </g>
 
-    <rect x="654" y="221" width="464" height="193" rx="8" fill="#FFFCF5" stroke="#A9987A" stroke-opacity="0.35"/>
-    <rect x="678" y="245" width="112" height="7" rx="3.5" fill="#332E27"/>
-    <circle cx="1079" cy="249" r="4" fill="#B3633F"/>
-    <path d="M678 268H1094" stroke="#D8CEBC"/>
-    <text x="678" y="296" fill="#9A5B3E" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10" font-weight="700" letter-spacing="1.3">FEATURED STORY</text>
-    <text x="678" y="326" fill="#2F2A23" font-family="Georgia, ui-serif, serif" font-size="19" font-weight="700">Ideas worth reading</text>
-    <rect x="678" y="342" width="204" height="5" rx="2.5" fill="#B6AA97"/>
-    <rect x="678" y="354" width="173" height="5" rx="2.5" fill="#C9BEAC"/>
-    <rect x="678" y="376" width="72" height="18" rx="9" fill="#EFE5D3"/>
-    <rect x="901" y="288" width="193" height="106" rx="4" fill="#D8C4A1"/>
-    <circle cx="997.5" cy="331" r="25" fill="#C29364" fill-opacity="0.6"/>
-    <path d="M927 375C950 342 970 359 990 341C1011 322 1030 372 1068 332" fill="none" stroke="#8A6B4C" stroke-width="3" stroke-linecap="round"/>
+  <g>
+    <rect x="830" y="75" width="145" height="27" rx="13.5" fill="#E50914" fill-opacity="0.15" stroke="#E50914" stroke-opacity="0.55"/>
+    <text x="902.5" y="94" fill="#FF6670" text-anchor="middle" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">CHROME EXTENSION</text>
+    <text x="830" y="145" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="750">Netflix Hidden</text>
+    <text x="830" y="178" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="30" font-weight="750">Categories</text>
+    <text x="830" y="204" fill="#A8A8A8" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="14">Every genre, one menu away.</text>
+    <rect x="830" y="228" width="292" height="167" rx="16" fill="#202020" stroke="#FFFFFF" stroke-opacity="0.12"/>
+    <rect x="850" y="247" width="252" height="28" rx="7" fill="#2D2D2D"/><circle cx="868" cy="261" r="6" fill="none" stroke="#8C8C8C" stroke-width="2"/><path d="M872 265L878 271" stroke="#8C8C8C" stroke-width="2" stroke-linecap="round"/>
+    <text x="888" y="266" fill="#9C9C9C" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="11">Search categories</text>
+    <text x="850" y="300" fill="#E5E5E5" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="12" font-weight="700">Popular genres</text>
+    <rect x="850" y="314" width="116" height="25" rx="6" fill="#E50914"/><text x="862" y="331" fill="#FFFFFF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10" font-weight="600">Action &amp; Adventure</text>
+    <rect x="976" y="314" width="75" height="25" rx="6" fill="#333333"/><text x="990" y="331" fill="#DADADA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10" font-weight="600">Comedies</text>
+    <rect x="850" y="349" width="81" height="25" rx="6" fill="#333333"/><text x="865" y="366" fill="#DADADA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10" font-weight="600">Cult Films</text>
+    <rect x="941" y="349" width="97" height="25" rx="6" fill="#333333"/><text x="955" y="366" fill="#DADADA" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10" font-weight="600">Documentaries</text>
+    <path d="M1080 319L1083 325L1090 326L1085 331L1086 338L1080 335L1074 338L1075 331L1070 326L1077 325Z" fill="#E50914"/>
   </g>
 </svg>

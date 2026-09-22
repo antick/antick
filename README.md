@@ -38,12 +38,12 @@ My current interests sit at the intersection of developer experience, AI-assiste
 ## Selected work
 
 <div align="center">
-  <img src="./assets/project-showcase.svg" alt="Capsule and Paperline project showcase" width="100%">
+  <img src="./assets/project-showcase.svg" alt="Capsule, Paperline, and Netflix Hidden Categories project showcase" width="100%">
 </div>
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Capsule</h3>
       <p>A quiet edge dock for AI coding tools on macOS. It keeps usage limits, local agent activity, reset times, and token totals visible without pulling you out of your work.</p>
       <p>
@@ -52,13 +52,22 @@ My current interests sit at the intersection of developer experience, AI-assiste
         <a href="https://github.com/antick/capsule/releases/latest"><strong>Download</strong></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3>Paperline</h3>
       <p>An open-source Astro blog theme with an editorial layout, thoughtful typography, search, organized archives, rich reading tools, and a warm paper-inspired palette.</p>
       <p>
         <a href="https://github.com/antick/astro-paperline"><strong>Source</strong></a>
         &nbsp;·&nbsp;
         <a href="https://paperline.potion.sh"><strong>Live demo</strong></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3>Netflix Hidden Categories</h3>
+      <p>An open-source Chrome extension that adds a searchable category menu to Netflix, making hundreds of hidden genres easy to browse, search, and save.</p>
+      <p>
+        <a href="https://github.com/antick/netflix-categories-chrome"><strong>Source</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://chromewebstore.google.com/detail/netflix-hidden-categories/ahpajhekpgjoijmcomaffmljeafacemc"><strong>Install</strong></a>
       </p>
     </td>
   </tr>
