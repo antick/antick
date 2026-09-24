@@ -12,58 +12,46 @@
   <a href="https://www.linkedin.com/in/pankajsanam">LinkedIn</a>
 </div>
 
-## I build from idea to production
+## I make useful software feel simple
 
-I am a technology lead and product builder who enjoys turning useful ideas into focused software. I work across product thinking, architecture, interfaces, infrastructure, and the details that make software pleasant to use.
+I build products from the first sketch to the systems that keep them running. These days, I’m especially interested in developer tools, coding agents, and good places to write.
 
-My current interests sit at the intersection of developer experience, AI-assisted workflows, productivity, and thoughtful publishing.
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <strong>01 · Building</strong><br><br>
-      Focused tools that help people work with less friction and more clarity.
-    </td>
-    <td width="33%" valign="top">
-      <strong>02 · Exploring</strong><br><br>
-      Better interfaces and workflows for people building alongside AI agents.
-    </td>
-    <td width="33%" valign="top">
-      <strong>03 · Writing</strong><br><br>
-      Practical lessons on software, systems, architecture, AI, and cloud engineering.
-    </td>
-  </tr>
-</table>
-
-## Selected work
-
-<div align="center">
-  <img src="./assets/project-showcase.svg" alt="Capsule, Paperline, and Netflix Hidden Categories project showcase" width="100%">
-</div>
+## Open source, out in the world
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
+      <h3>Loadout</h3>
+      <p>One home for your coding agent skills. Organize them once, then use them across Codex, Claude Code, Cursor, and more.</p>
+      <p>
+        <a href="https://github.com/antick/loadout"><strong>Source</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://loadout.potion.sh"><strong>Website</strong></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h3>Capsule</h3>
-      <p>A quiet edge dock for AI coding tools on macOS. It keeps usage limits, local agent activity, reset times, and token totals visible without pulling you out of your work.</p>
+      <p>A quiet macOS dock that keeps coding agent activity, token use, and reset times in sight.</p>
       <p>
         <a href="https://github.com/antick/capsule"><strong>Source</strong></a>
         &nbsp;·&nbsp;
         <a href="https://github.com/antick/capsule/releases/latest"><strong>Download</strong></a>
       </p>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3>Paperline</h3>
-      <p>An open-source Astro blog theme with an editorial layout, thoughtful typography, search, organized archives, rich reading tools, and a warm paper-inspired palette.</p>
+      <p>An Astro theme that gives writing room to breathe, with search, archives, and a warm editorial feel.</p>
       <p>
         <a href="https://github.com/antick/astro-paperline"><strong>Source</strong></a>
         &nbsp;·&nbsp;
         <a href="https://paperline.potion.sh"><strong>Live demo</strong></a>
       </p>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3>Netflix Hidden Categories</h3>
-      <p>An open-source Chrome extension that adds a searchable category menu to Netflix, making hundreds of hidden genres easy to browse, search, and save.</p>
+      <p>A Chrome extension for finding Netflix’s tucked-away genres and saving the ones you love.</p>
       <p>
         <a href="https://github.com/antick/netflix-categories-chrome"><strong>Source</strong></a>
         &nbsp;·&nbsp;
@@ -73,7 +61,7 @@ My current interests sit at the intersection of developer experience, AI-assiste
   </tr>
 </table>
 
-## Tools I enjoy working with
+## Tools I reach for
 
 <div>
   <img src="https://img.shields.io/badge/TypeScript-1f2937?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
@@ -84,11 +72,9 @@ My current interests sit at the intersection of developer experience, AI-assiste
   <img src="https://img.shields.io/badge/Docker-1f2937?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
 </div>
 
-I also work with Node.js, Python, Hono, Elysia, NestJS, Tailwind CSS, TanStack, MongoDB, Valkey, Nginx, CI/CD, and DigitalOcean. The exact stack changes with the problem.
+## Notes from the work
 
-## Writing and learning
-
-At [Slashism](https://slashism.com), I publish deep tutorials and practical guides for people who build software. The subjects range from programming and AI engineering to system design, databases, DevOps, and cloud infrastructure.
+At [Slashism](https://slashism.com), I turn what I learn while building into practical tutorials on code, systems, and AI.
 
 <p>
   <a href="https://slashism.com/courses"><strong>Explore courses</strong></a>
@@ -98,21 +84,11 @@ At [Slashism](https://slashism.com), I publish deep tutorials and practical guid
   <a href="https://slashism.com/guides"><strong>Browse guides</strong></a>
 </p>
 
-## How I work
+I like clear tradeoffs, small details, and feedback from real use. Daily meditation helps me bring patience and attention to the work.
 
-<table>
-  <tr>
-    <td width="33%" align="center"><strong>Think in systems</strong><br><sub>Understand the whole before polishing the parts.</sub></td>
-    <td width="33%" align="center"><strong>Keep it useful</strong><br><sub>Clarity and utility come before novelty.</sub></td>
-    <td width="33%" align="center"><strong>Learn by shipping</strong><br><sub>Real feedback beats prolonged speculation.</sub></td>
-  </tr>
-</table>
+## Say hello
 
-Beyond software, daily meditation and spiritual practice help me cultivate the focus, discipline, and steadiness I bring to my work.
-
-## Let us connect
-
-I enjoy conversations about product engineering, developer tools, AI-assisted workflows, architecture, and the craft of building useful things.
+Working on a developer tool, an agent workflow, or something worth writing about? I’d love to hear from you.
 
 <p>
   <a href="https://slashism.com">
@@ -125,7 +101,3 @@ I enjoy conversations about product engineering, developer tools, AI-assisted wo
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
-<div align="center">
-  <sub>Build with intent. Keep learning. Leave things better than you found them.</sub>
-</div>
