@@ -20,6 +20,17 @@ I build products from the first sketch to the systems that keep them running. Th
 
 <table>
   <tr>
+    <td colspan="2" valign="top">
+      <h3>Copper</h3>
+      <p>A desktop Markdown editor that keeps your notes in local folders, with search and properties in one workspace.</p>
+      <p>
+        <a href="https://github.com/antick/copper"><strong>Source</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://copper.potion.sh"><strong>Website</strong></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>Loadout</h3>
       <p>One home for your coding agent skills. Organize them once, then use them across Codex, Claude Code, Cursor, and more.</p>
