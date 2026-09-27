@@ -70,6 +70,17 @@ I build products from the first sketch to the systems that keep them running. Th
       </p>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>Skills</h3>
+      <p>Reusable skills for coding agents, collected in one place.</p>
+      <p>
+        <a href="https://github.com/antick/skills"><strong>Source</strong></a>
+        &nbsp;·&nbsp;
+        <a href="https://skills.potion.sh"><strong>Website</strong></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 ## Tools I reach for
