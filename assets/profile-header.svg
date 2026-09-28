@@ -1,53 +1,167 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="280" viewBox="0 0 1100 280" role="img" aria-labelledby="title description">
-  <title id="title">Pankaj Sanam — @antick</title>
-  <desc id="description">A typographic calling card with an orange wireframe orbit.</desc>
-  <defs>
-    <clipPath id="card">
-      <rect width="1100" height="280" rx="8"/>
-    </clipPath>
-    <ellipse id="orbit" cx="897" cy="150" rx="82" ry="27"/>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="2048" height="683" viewBox="0 0 2048 683" role="img" aria-labelledby="title description">
+  <title id="title">Pankaj Sanam — engineer, open source, writer, explorer</title>
+  <desc id="description">Curious mind. Building useful things. Always a work in progress. Idea, build, release, iterate: a little better each time. Interests: tech, books, travel, wellness, spirituality, and life. Find me on X at @aghorism.</desc>
   <style>
-    .paper { fill: #f3f1eb; }
-    .ink { fill: #252823; }
-    .muted { fill: #60645b; }
-    .rule { stroke: #d6d8ce; }
-    .orbit { color: #c95730; }
-    @media (max-width: 600px) {
-      .name { font-size: 34px; letter-spacing: 2px; }
-      .meta, .caption { display: none; }
-    }
+    .paper { fill: #faf9f6; }
+    .ink { fill: #171918; }
+    .text { fill: #363c46; }
+    .muted { fill: #858c98; }
+    .accent { fill: #ef471b; }
+    .dots { fill: #c4c8ce; }
+    .rule { fill: none; stroke: #b7bcc4; stroke-width: 1.6; }
+    .divider { stroke: #d5d7d9; stroke-width: 1.2; }
+    .outline { fill: none; stroke: #363c46; stroke-width: 1.8; }
+    .loop-tip { fill: none; stroke: #363c46; stroke-width: 1.5; stroke-linecap: round; stroke-linejoin: round; }
+    .icon { fill: none; stroke: #171918; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
+    .interest-icon { fill: none; stroke: #ef471b; stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; font-weight: 400; }
+    .small { font-size: 18px; letter-spacing: 1.8px; }
+    .step-label { font-size: 14px; letter-spacing: 1.3px; }
     @media (prefers-color-scheme: dark) {
-      .paper { fill: #191d1b; }
-      .ink { fill: #eeeede; }
-      .muted { fill: #a5ad9e; }
-      .rule { stroke: #384139; }
-      .orbit { color: #f58b5c; }
+      .paper { fill: #181b1d; }
+      .ink { fill: #f3f2ed; }
+      .text { fill: #e0e3e7; }
+      .muted { fill: #a1a9b5; }
+      .accent { fill: #ff714a; }
+      .dots { fill: #4d5661; }
+      .rule { stroke: #626b76; }
+      .divider { stroke: #3e454d; }
+      .outline, .loop-tip { stroke: #e0e3e7; }
+      .icon { stroke: #f3f2ed; }
+      .interest-icon { stroke: #ff714a; }
     }
   </style>
-  <g clip-path="url(#card)">
-    <rect class="paper" width="1100" height="280"/>
-    <path class="rule" d="M40 62H1060M40 239H1060M741 24V256" fill="none"/>
-    <text class="muted name" x="42" y="43" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" letter-spacing="3">@ANTICK</text>
-    <text class="muted meta" x="1060" y="43" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="12" letter-spacing="2">CODE / SYSTEMS / CURIOSITY</text>
-    <text class="ink" x="40" y="181" font-family="Georgia, 'Times New Roman', serif" font-size="102" font-weight="400" letter-spacing="-3">Pankaj Sanam</text>
-    <path d="M671 169H715V181H671Z" fill="#c95730"/>
-    <g class="orbit" fill="none" stroke="currentColor" stroke-width="1.2">
-      <use href="#orbit"/>
-      <use href="#orbit" transform="rotate(15 897 150)"/>
-      <use href="#orbit" transform="rotate(30 897 150)"/>
-      <use href="#orbit" transform="rotate(45 897 150)"/>
-      <use href="#orbit" transform="rotate(60 897 150)"/>
-      <use href="#orbit" transform="rotate(75 897 150)"/>
-      <use href="#orbit" transform="rotate(90 897 150)"/>
-      <use href="#orbit" transform="rotate(105 897 150)"/>
-      <use href="#orbit" transform="rotate(120 897 150)"/>
-      <use href="#orbit" transform="rotate(135 897 150)"/>
-      <use href="#orbit" transform="rotate(150 897 150)"/>
-      <use href="#orbit" transform="rotate(165 897 150)"/>
+  <defs>
+    <path id="x-mark" fill-rule="evenodd" d="M19 0H23L14.6 9.6L24.6 23H16.8L10.7 14.9L3.6 23H0L9 12.5L0 0H8L13.5 7.4ZM17.9 21H20.4L6.9 2H4.1Z"/>
+    <rect id="step-box" width="100" height="105" rx="16"/>
+    <path id="forward-arrow" d="M0 0H21M15-5L21 0L15 5"/>
+    <marker id="loop-arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path class="loop-tip" d="M2 1L8 5L2 9"/>
+    </marker>
+    <g id="bulb">
+      <path d="M10 28C10 23 4 20 4 13C4 6 9 2 15 2C22 2 26 7 26 13C26 20 20 23 20 28ZM11 32H19M13 36H17M15 28V19L11 15M15 19L19 15"/>
     </g>
-    <circle cx="897" cy="150" r="4" fill="#c95730"/>
-    <text class="muted caption" x="42" y="261" font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="11" letter-spacing="2">ENGINEERING &amp; OPEN SOURCE</text>
-    <path class="rule" d="M1050 252H1060M1055 247V257"/>
+    <g id="document">
+      <path d="M2 1H28V33H2Z"/>
+      <path d="M8 8H22M8 16H22M8 24H22"/>
+    </g>
+    <path id="play" d="M3 1L26 14L3 27Z"/>
+    <g id="chart">
+      <path d="M1 18H7V28H1ZM12 10H18V28H12ZM23 1H29V28H23Z"/>
+    </g>
+    <path id="terminal" d="M3 3L10 10L3 17M14 18H23"/>
+    <path id="book" d="M12 5C9 2 5 2 1 3V20C5 19 9 19 12 22C15 19 19 19 23 20V3C19 2 15 2 12 5V22"/>
+    <path id="plane" d="M22 2C24 4 22 6 20 8L16 12L18 20L16 22L12 15L8 18V22L6 23L5 18L1 17L2 15H6L9 11L2 7L4 5L12 7L18 3C20 1 21 1 22 2Z"/>
+    <path id="leaf" d="M22 2C11 1 2 7 4 16C11 24 23 17 22 2ZM3 23L16 10"/>
+    <g id="meditation">
+      <circle cx="12" cy="4" r="2.5"/>
+      <path d="M9 9H15C18 9 17 15 19 17L22 18V22H2V18L5 17C7 15 6 9 9 9ZM10 11V16L6 19H18L14 16V11M7 22L12 19L17 22"/>
+    </g>
+    <path id="mountains" d="M1 21L8 7L12 13L16 4L25 21ZM6 11L8 13L10 11"/>
+    <pattern id="dot-grid" x="1456" y="444" width="24" height="25" patternUnits="userSpaceOnUse">
+      <circle class="dots" cx="2" cy="2" r="1.25"/>
+    </pattern>
+  </defs>
+
+  <rect class="paper" width="2048" height="683"/>
+
+  <!-- Masthead -->
+  <g class="ink" transform="translate(73 64) scale(1.15)">
+    <use href="#x-mark"/>
   </g>
+  <text class="mono text" x="120" y="86" font-size="21" letter-spacing="1.1">@aghorism</text>
+  <text class="mono muted small" x="1341" y="88">CODE / BUILD / EXPLORE / LEARN / REPEAT</text>
+  <rect class="accent" x="1962" y="71" width="17" height="17"/>
+  <path class="rule" d="M70 106H1979"/>
+
+  <!-- Three columns -->
+  <path class="divider" d="M745 192V499M1649 192V499"/>
+
+  <!-- Identity -->
+  <!-- Display lettering traced from the supplied reference, with no font dependency. -->
+  <path class="ink" fill-rule="evenodd" transform="translate(59.403315 185.753223) scale(0.94290976)" aria-label="Pankaj Sanam"
+    d="M11.00 160.00L33.00 160.00L33.65 163.90Q34.00 166.00 35.86 167.03L39.85 169.25Q43.00 171.00 46.60 171.00L55.09 171.00Q59.00 171.00 62.50 169.25L69.00 166.00L67.00 158.00L37.51 153.09Q31.00 152.00 25.40 148.50L20.42 145.39Q15.00 142.00 13.95 135.70L12.99 129.94Q12.00 124.00 15.50 119.10L18.98 114.23Q22.00 110.00 26.90 108.25L31.10 106.75Q36.00 105.00 41.20 105.00L59.24 105.00Q64.00 105.00 68.55 106.40L72.50 107.62Q77.00 109.00 80.50 112.15L83.53 114.88Q87.00 118.00 88.05 122.55L90.00 131.00L69.00 131.00L65.35 125.16Q64.00 123.00 61.55 122.30L59.45 121.70Q57.00 121.00 54.46 121.15L42.73 121.84Q40.00 122.00 37.90 123.75L34.00 127.00L37.90 131.55Q40.00 134.00 43.19 134.50L66.12 138.08Q72.00 139.00 77.25 141.80L84.24 145.53Q87.00 147.00 88.40 149.80L89.60 152.20Q91.00 155.00 91.00 158.13L91.00 164.75Q91.00 170.00 87.61 174.01L83.85 178.45Q80.00 183.00 74.26 184.60L68.30 186.25Q62.00 188.00 55.49 187.44L32.94 185.51Q27.00 185.00 22.45 181.15L17.83 177.24Q14.00 174.00 12.95 169.10Z
+      M12.00 10.00L63.57 10.00Q68.00 10.00 72.20 11.40L76.94 12.98Q80.00 14.00 82.45 16.10L84.55 17.90Q87.00 20.00 88.31 22.95L89.60 25.85Q91.00 29.00 90.69 32.43L89.40 46.56Q89.00 51.00 85.85 54.15L82.90 57.10Q80.00 60.00 76.15 61.40L72.85 62.60Q69.00 64.00 64.90 64.00L35.00 64.00L34.00 91.00L12.00 91.00Z
+      M34.00 29.00L34.00 46.00L61.27 46.00Q64.00 46.00 66.10 44.25L67.90 42.75Q70.00 41.00 70.00 38.27L70.00 35.24Q70.00 33.00 68.25 31.60L66.75 30.40Q65.00 29.00 62.76 29.00Z
+      M85.00 89.00L121.00 10.00L148.00 10.00L182.00 91.00L159.00 91.00L153.00 76.00L115.00 76.00L108.00 91.00Z
+      M90.00 185.00L125.00 106.00L151.00 106.00L185.00 186.00L162.00 186.00L157.00 172.00L119.00 172.00L113.00 186.00Z
+      M123.49 55.07Q123.00 56.00 123.00 57.05L123.00 59.00L145.00 59.00L135.00 33.00Z
+      M127.46 150.99Q127.00 152.00 127.35 153.05L128.00 155.00L149.00 155.00L138.00 128.00Z
+      M186.00 10.00L201.60 10.00Q210.00 10.00 215.36 16.46L249.00 57.00L250.00 10.00L271.00 10.00L271.00 91.00L257.35 91.00Q250.00 91.00 245.23 85.41L209.00 43.00L208.00 90.00L186.00 91.00Z
+      M189.00 106.00L203.30 106.00Q211.00 106.00 215.93 111.92L251.00 154.00L252.00 106.00L273.00 106.00L273.00 186.00L258.70 186.00Q251.00 186.00 246.07 180.08L211.00 138.00L210.00 186.00L189.00 186.00Z
+      M277.00 185.00L312.00 107.00L339.00 106.00L373.00 186.00L350.00 186.00L344.00 172.00L306.00 172.00L300.00 186.00Z
+      M282.00 10.00L304.00 10.00L304.00 45.00L332.97 16.83Q340.00 10.00 349.80 10.00L368.00 10.00L333.00 44.00L368.00 89.00L404.00 10.00L430.00 10.00L464.00 91.00L441.00 91.00L435.00 76.00L397.00 77.00L392.00 91.00L342.00 91.00L318.00 59.00L308.90 66.80Q304.00 71.00 304.00 77.45L304.00 91.00L282.00 91.00Z
+      M314.49 151.01Q314.00 152.00 314.35 153.05L315.00 155.00L336.00 155.00L326.00 128.00Z
+      M376.00 106.00L405.00 107.00L424.00 156.00L446.00 106.00L474.00 106.00L474.00 186.00L453.00 186.00L453.00 138.00L433.00 186.00L415.00 185.00L398.00 138.00L397.00 186.00L376.00 186.00Z
+      M406.49 55.07Q406.00 56.00 406.00 57.05L406.00 59.00L428.00 59.00L418.00 33.00Z
+      M466.00 55.00L487.00 55.00L487.00 61.99Q487.00 65.00 488.75 67.45L490.25 69.55Q492.00 72.00 495.01 72.18L509.00 73.00L512.90 67.80Q515.00 65.00 515.00 61.50L515.00 10.00L537.00 10.00L537.00 56.69Q537.00 63.00 534.90 68.95L532.40 76.03Q531.00 80.00 527.85 82.80L525.15 85.20Q522.00 88.00 517.93 89.09L512.25 90.60Q507.00 92.00 501.62 91.23L485.39 88.91Q479.00 88.00 474.80 83.10L471.20 78.90Q467.00 74.00 466.66 67.56Z"/>
+  <rect class="accent" x="523" y="347" width="58" height="16"/>
+  <text class="mono text" x="70" y="416" font-size="19" letter-spacing="2.1">ENGINEER / OPEN SOURCE / WRITER / EXPLORER</text>
+  <text class="mono muted" x="70" y="453" font-size="18" letter-spacing=".5">
+    <tspan x="70">Curious mind.</tspan>
+    <tspan x="70" dy="24">Building useful things.</tspan>
+    <tspan x="70" dy="24">Always a work in progress.</tspan>
+  </text>
+
+  <!-- Ideas to iterations -->
+  <text class="mono muted small" x="788" y="252">
+    <tspan x="788">IDEAS</tspan>
+    <tspan x="788" dy="27">PLAN</tspan>
+    <tspan x="788" dy="27">CODE</tspan>
+    <tspan x="788" dy="27">SHIP</tspan>
+    <tspan x="788" dy="27">IMPROVE</tspan>
+  </text>
+  <g class="outline">
+    <use href="#step-box" x="939" y="240"/>
+    <use href="#step-box" x="1102" y="240"/>
+    <use href="#step-box" x="1265" y="240"/>
+    <use href="#step-box" x="1429" y="240"/>
+    <use href="#forward-arrow" x="1060" y="293"/>
+    <use href="#forward-arrow" x="1223" y="293"/>
+    <use href="#forward-arrow" x="1387" y="293"/>
+    <path d="M1480 345C1486 409 1435 409 1230 409C1058 409 1004 412 989 356" marker-end="url(#loop-arrow)"/>
+  </g>
+  <g class="icon">
+    <use href="#bulb" x="974" y="263"/>
+    <use href="#document" x="1137" y="264"/>
+    <use href="#play" x="1302" y="267"/>
+    <use href="#chart" x="1464" y="267"/>
+  </g>
+  <g class="mono ink step-label" text-anchor="middle">
+    <text x="989" y="327">IDEA</text>
+    <text x="1152" y="327">BUILD</text>
+    <text x="1315" y="327">RELEASE</text>
+    <text x="1479" y="327">ITERATE</text>
+  </g>
+  <text class="mono muted small" x="1230" y="449" text-anchor="middle">A LITTLE BETTER EACH TIME</text>
+  <rect x="1456" y="444" width="150" height="105" fill="url(#dot-grid)"/>
+
+  <!-- Interests -->
+  <g class="interest-icon">
+    <use href="#terminal" x="1731" y="201"/>
+    <use href="#book" x="1731" y="241"/>
+    <use href="#plane" x="1731" y="282"/>
+    <use href="#leaf" x="1731" y="323"/>
+    <use href="#meditation" x="1731" y="363"/>
+    <use href="#mountains" x="1730" y="404"/>
+  </g>
+  <g class="mono text small">
+    <text x="1783" y="218">TECH</text>
+    <text x="1783" y="259">BOOKS</text>
+    <text x="1783" y="300">TRAVEL</text>
+    <text x="1783" y="341">WELLNESS</text>
+    <text x="1783" y="382">SPIRITUALITY</text>
+    <text x="1783" y="423">LIFE</text>
+  </g>
+
+  <!-- Footer -->
+  <rect class="accent" x="70" y="573" width="18" height="18"/>
+  <g class="rule">
+    <rect x="99" y="573" width="17" height="17"/>
+    <rect x="127" y="573" width="17" height="17"/>
+    <path d="M180 581H284M752 581H1674M1710 567V596"/>
+  </g>
+  <text class="mono muted small" x="310" y="591">IDEAS → CODE → PRODUCTS → IMPACT</text>
+  <text class="mono muted small" x="1745" y="591">KEEP EXPLORING</text>
+  <path class="interest-icon" d="M1953 582H1979"/>
 </svg>
