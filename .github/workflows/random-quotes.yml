@@ -1,5 +1,11 @@
 name: Update Quote Readme
 
+permissions: {}
+
+concurrency:
+  group: random-quotes
+  cancel-in-progress: true
+
 on:
   workflow_dispatch:
   schedule:
@@ -10,5 +16,7 @@ jobs:
   update-readme:
     name: Update Quote README
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # quote-readme commits README updates via GITHUB_TOKEN
     steps:
-      - uses: siddharth2016/quote-readme@main
+      - uses: siddharth2016/quote-readme@a0d04b5b5863ae4a82e07de7a8aa0e3b0367fc51 # main (no release tag)
