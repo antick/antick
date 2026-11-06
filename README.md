@@ -47,7 +47,7 @@ I build developer tools, coding-agent workflows, and quiet places to write. Most
   </tr>
 </table>
 
-## Writing and notes
+## Apps, extensions, and themes
 
 <table>
   <tr>
@@ -58,39 +58,24 @@ I build developer tools, coding-agent workflows, and quiet places to write. Most
       <a href="https://copper.potion.sh"><strong>Website</strong></a> · <a href="https://github.com/antick/copper"><strong>Source</strong></a>
     </td>
     <td width="50%" valign="top">
+      <h3><a href="https://github.com/antick/pookie">Pookie</a></h3>
+      <p>A cat that lives on your macOS screen, climbs your windows, and never steals focus. Up to ten animals from a set of 22.</p>
+      <p><sub>Swift · macOS</sub></p>
+      <a href="https://github.com/antick/pookie/releases/latest"><strong>Download</strong></a> · <a href="https://github.com/antick/pookie"><strong>Source</strong></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/antick/netflix-categories-chrome">Netflix Hidden Categories</a></h3>
+      <p>A Chrome extension for browsing Netflix's hidden categories and secret genre codes.</p>
+      <p><sub>TypeScript · Chrome extension</sub></p>
+      <a href="https://chromewebstore.google.com/detail/netflix-hidden-categories/ahpajhekpgjoijmcomaffmljeafacemc"><strong>Install</strong></a> · <a href="https://netflix-categories.potion.sh"><strong>Website</strong></a> · <a href="https://github.com/antick/netflix-categories-chrome"><strong>Source</strong></a>
+    </td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/antick/astro-paperline">Paperline</a></h3>
       <p>A paper-inspired Astro blog theme with search, topics, archives, and dark mode.</p>
-      <p><sub>Astro</sub></p>
+      <p><sub>Astro · Blog theme</sub></p>
       <a href="https://paperline.potion.sh"><strong>Live demo</strong></a> · <a href="https://github.com/antick/astro-paperline"><strong>Source</strong></a>
     </td>
   </tr>
 </table>
-
-## Small things
-
-| Project | What it does |
-| --- | --- |
-| [Pookie](https://github.com/antick/pookie) | A cat that lives on your macOS screen, climbs your windows, and never steals focus. Up to ten animals from a set of 22. |
-| [Netflix Hidden Categories](https://github.com/antick/netflix-categories-chrome) | Chrome extension for Netflix's secret genre codes. [Install](https://chromewebstore.google.com/detail/netflix-hidden-categories/ahpajhekpgjoijmcomaffmljeafacemc) · [Website](https://netflix-categories.potion.sh) |
-| [Awesome Resources](https://github.com/antick/awesome-resources) | A running list of tools and reading I keep coming back to. |
-| [VPS Setup](https://github.com/antick/vps-setup-php) | One script to set up an Ubuntu box for PHP and Node. |
-
-<details>
-<summary><strong>Older and archived work</strong></summary>
-<br>
-
-| Project | Notes |
-| --- | --- |
-| [Hashnode Custom CSS](https://github.com/antick/hashnode-custom-css) | Custom styles for Hashnode blogs. 22 stars. |
-| [Radium](https://github.com/antick/radium) | Medium-inspired HTML template on Tailwind CSS. |
-| [React Crisp UI](https://github.com/antick/react-crisp-ui) | Small React component kit. [npm](https://www.npmjs.com/package/react-crisp-ui) |
-| [Skyii](https://github.com/antick/skyii) | Starter kit for Yii2. |
-| [VS Code Settings](https://github.com/antick/vscode-settings) | Extensions and settings I used. |
-| [Ubuntu Resolution](https://github.com/antick/ubuntu-resolution) | Push Ubuntu past your monitor's native resolution. |
-| [JS Helper](https://github.com/antick/js-helper) | jQuery utilities from 2013. |
-
-</details>
-
-## Writing
-
-At [Slashism](https://slashism.com) I turn what I learn while building into tutorials on code, systems, and AI.
