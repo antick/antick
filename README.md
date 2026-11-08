@@ -69,7 +69,7 @@ I build developer tools, coding-agent workflows, and quiet places to write. Most
       <h3><a href="https://github.com/antick/netflix-categories-chrome">Netflix Hidden Categories</a></h3>
       <p>A Chrome extension for browsing Netflix's hidden categories and secret genre codes.</p>
       <p><sub>TypeScript · Chrome extension</sub></p>
-      <a href="https://chromewebstore.google.com/detail/netflix-hidden-categories/ahpajhekpgjoijmcomaffmljeafacemc"><strong>Install</strong></a> · <a href="https://netflix-categories.potion.sh"><strong>Website</strong></a> · <a href="https://github.com/antick/netflix-categories-chrome"><strong>Source</strong></a>
+      <a href="https://chromewebstore.google.com/detail/categories-for-netflix-un/dhmkkdcngbedlfggdpdnoahebcdnmdlj"><strong>Install</strong></a> · <a href="https://netflix-categories.potion.sh"><strong>Website</strong></a> · <a href="https://github.com/antick/netflix-categories-chrome"><strong>Source</strong></a>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/antick/astro-paperline">Paperline</a></h3>
