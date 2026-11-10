@@ -1,7 +1,3 @@
-<a href="https://bucketment.com">
-  <img src="./assets/profile-header.svg" alt="Pankaj Sanam — engineer, open source, writer, explorer" width="100%">
-</a>
-
 <p align="center">
   <a href="https://bucketment.com">Website</a>
   &nbsp; / &nbsp;
