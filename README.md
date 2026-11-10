@@ -6,8 +6,6 @@
   <a href="https://www.linkedin.com/in/pankajsanam">LinkedIn</a>
 </p>
 
-I build developer tools, coding-agent workflows, and quiet places to write. Most of it is open source and lives under [potion.sh](https://potion.sh).
-
 ## Tools for coding agents
 
 <table>
