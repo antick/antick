@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://bucketment.com">Website</a>
+  <a href="https://potion.sh">Website</a>
   &nbsp; / &nbsp;
   <a href="https://x.com/bucketment">X</a>
   &nbsp; / &nbsp;
