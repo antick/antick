@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/profile-header.png" alt="Outline drawing of mountains, a golden sun, a lake, and pine trees on a pale cream background." width="100%">
+</p>
+
+<p align="center">
   <a href="https://potion.sh">Website</a>
   &nbsp; / &nbsp;
   <a href="https://x.com/bucketment">X</a>
