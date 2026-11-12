@@ -64,7 +64,7 @@
       <a href="https://chromewebstore.google.com/detail/categories-for-netflix-un/dhmkkdcngbedlfggdpdnoahebcdnmdlj"><strong>Install</strong></a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/antick/astro-paperline">Paperline</a></h3>
+      <h3><a href="https://github.com/antick/paperline">Paperline</a></h3>
       <p>A paper-inspired Astro blog theme with search, topics, archives, and dark mode.</p>
       <p><sub>Astro · Blog theme</sub></p>
     </td>
