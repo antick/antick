@@ -69,4 +69,12 @@
       <p><sub>Astro · Blog theme</sub></p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/antick/batcave">Batcave</a></h3>
+      <p>A Batman-inspired Astro portfolio and blog template with eight themes, project showcases, search, and a personal shelf.</p>
+      <p><sub>Astro · Portfolio and blog template</sub></p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
