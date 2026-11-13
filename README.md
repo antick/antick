@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/antick/netflix-categories-chrome">Netflix Hidden Categories</a></h3>
+      <h3><a href="https://github.com/antick/hidden-netflix-categories">Netflix Hidden Categories</a></h3>
       <p>A Chrome extension for browsing Netflix's hidden categories and secret genre codes.</p>
       <p><sub>TypeScript · Chrome extension</sub></p>
       <a href="https://chromewebstore.google.com/detail/categories-for-netflix-un/dhmkkdcngbedlfggdpdnoahebcdnmdlj"><strong>Install</strong></a>
